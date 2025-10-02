@@ -1856,10 +1856,11 @@ with a series of sword artes and kicks.</EnglishText>
       <PointerOffset>4236</PointerOffset>
       <JapaneseText>（ゲンエイ・コウハダン）奥義
 斬撃で斬り抜け、背後より熱波を飛ばす剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Slash past your foes and launch a fiery
+shockwave from behind.</EnglishText>
       <Notes/>
       <Id>805</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4264</PointerOffset>
@@ -1892,19 +1893,21 @@ burn your foes to ashes.</EnglishText>
       <PointerOffset>4332</PointerOffset>
       <JapaneseText>（チリシグレ）特技ＬＶ１
 しとどに降る雨の如く、素早く連続で斬る技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV 1: Shower your foes with a torrent of
+slashes.</EnglishText>
       <Notes/>
       <Id>809</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4364</PointerOffset>
       <JapaneseText>（チリシグレ）特技ＬＶ２
 しとどに降る雨の如く、素早く連続で斬る技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV 2: Shower your foes with a torrent of
+slashes.</EnglishText>
       <Notes/>
       <Id>810</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4392</PointerOffset>
@@ -1920,9 +1923,9 @@ burn your foes to ashes.</EnglishText>
 しとどに降る雨の如く、素早く連続で斬る剣技</JapaneseText>
       <EnglishText>Base: Swing your sword in rapid succession,
 like a downpour of rain.</EnglishText>
-      <Notes/>
+      <Notes>May need to retranslate to make it worded closer to the descriptions above</Notes>
       <Id>812</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>4428</PointerOffset>
@@ -2103,10 +2106,11 @@ an instant. Extends to Sonic Return.</EnglishText>
       <PointerOffset>4844</PointerOffset>
       <JapaneseText>（クウショウ・レツザンハ）奥義
 素早く上空より斬り落とし、神速の連撃を浴びせる剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Strike down from above and unleash a
+flurry of lightspeed slashes.</EnglishText>
       <Notes/>
       <Id>832</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4904</PointerOffset>
@@ -2284,10 +2288,11 @@ slash through them in an instant.</EnglishText>
       <PointerOffset>5324</PointerOffset>
       <JapaneseText>（ゲンエイショウク）特技
 斬り上げから身を翻し、瞬時に斬り上げる剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Twist your body as slash upward, then
+follow up with a slash through the air.</EnglishText>
       <Notes/>
       <Id>852</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5352</PointerOffset>
@@ -2355,37 +2360,40 @@ leaving behind a trail of darkness.</EnglishText>
       <PointerOffset>5196,5484</PointerOffset>
       <JapaneseText>（バットウザン）特技
 腰溜めの一撃から素早く横に斬り払う剣技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Base: Launch a wide sweeping strike from a low stance.</EnglishText>
+      <Notes>Corresponds to 抜刀斬, Battouzan (Draw Strike)</Notes>
       <Id>860</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5068,5516</PointerOffset>
       <JapaneseText>（カゲツレンザン）特技
 円を描く太刀筋により相手を二度斬り上げ突く剣技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Base: Slash upward twice before thrusting with a
+circular sword stroke.</EnglishText>
+      <Notes>Need to know which arte this goes with</Notes>
       <Id>861</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>5580</PointerOffset>
       <JapaneseText>（シュウソウライザン）奥義
 大きく斬り上げた後、斬り下ろす剣技。ヒット時落雷を伴う</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Arcane: Swing upward in a wide arc before slashing
+down. The target is struck by lightning upon contact.</EnglishText>
+      <Notes>Need to find corresponding arte</Notes>
       <Id>862</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>7724,5612</PointerOffset>
       <JapaneseText>（ゼツエイ）奥義
 敵の上空へ瞬時に移動し、真空波を伴い頭上より斬り落とす剣技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Arcane: Teleport above the enemy and slash down
+with a shockwave that shreds them.</EnglishText>
+      <Notes>Dark Projection is the corresponding arte</Notes>
       <Id>863</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>5640</PointerOffset>
@@ -3401,8 +3409,8 @@ slash them down.</EnglishText>
       <PointerOffset>7596</PointerOffset>
       <JapaneseText>（ヒレンザン）特技　追加技『飛連双閃』
 斬りつけた後、斬り上げる忍術</JapaneseText>
-      <EnglishText>A ninjutsu arte that slashes down then up.
-Extends into Dreadflash.</EnglishText>
+      <EnglishText>Base: Ninjutsu that has the user slash downward
+then up. Extends into Dreadflash.</EnglishText>
       <Notes>May need to revise extension arte - based off Judas' arte Dreadfall and Hirensousen</Notes>
       <Id>976</Id>
       <Status>Editing</Status>
@@ -3411,10 +3419,11 @@ Extends into Dreadflash.</EnglishText>
       <PointerOffset>5228,7628</PointerOffset>
       <JapaneseText>（シンクウハザン・テン）特技
 腰溜めの一撃から真空波で敵を打ち上げる剣技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Base: Launch the enemy into a wide-ranging, multi-stage slashing
+attack generated from the wave of null energy from unsheathing.</EnglishText>
+      <Notes>I believe this is the description for Void Sword - I took cues from the English Localization of the arte description while trying to keep it in line with the NDX wording.</Notes>
       <Id>977</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>5420,7660</PointerOffset>
@@ -3438,10 +3447,10 @@ with darkness.</EnglishText>
       <PointerOffset>7692</PointerOffset>
       <JapaneseText>（トビタカ）特技
 帯電させた短剣を三本投げつける忍術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Throw 3 electrified daggers at your foes.</EnglishText>
       <Notes/>
       <Id>980</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5608,7720</PointerOffset>
@@ -3517,8 +3526,8 @@ directions. Extends to Phantom Embrace.</EnglishText>
       <PointerOffset>7916</PointerOffset>
       <JapaneseText>（カゲヌイ）特技　追加技『御影砕』　効果：敏捷↓
 敵の影に武器を刺し、行動を封じる忍術</JapaneseText>
-      <EnglishText>（カゲヌイ）Additional Arte: 『Shadow Crush』　効果：敏捷↓
-敵の影に武器を刺し、行動を封じる忍術</EnglishText>
+      <EnglishText>Base: Pierce the enemy's shadow to seal their movement.
+Extends to Shadow Crush. Effect: Agility↓</EnglishText>
       <Notes/>
       <Id>989</Id>
       <Status>Editing</Status>
@@ -13765,8 +13774,8 @@ enemies with a breath of poison.</EnglishText>
       <PointerOffset>42988</PointerOffset>
       <JapaneseText>（ジュウハゴウショウザン）秘奥義
 全て斬り裂く、アスベルの抜刀術</JapaneseText>
-      <EnglishText>Like a feral animal, tear your foe asunder
-with a massive sword slash.</EnglishText>
+      <EnglishText>Mystic: Cleave through anything with Asbel's
+Drawn Sword Artes.</EnglishText>
       <Notes/>
       <Id>2169</Id>
       <Status>Editing</Status>
