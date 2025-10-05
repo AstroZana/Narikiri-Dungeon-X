@@ -570,10 +570,10 @@ long-reaching thrusts.</EnglishText>
     <Entry>
       <PointerOffset>1672</PointerOffset>
       <JapaneseText>パンチ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Punch</EnglishText>
       <Notes/>
       <Id>663</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1676</PointerOffset>
@@ -4892,10 +4892,11 @@ hurricane. Extends to Wind Burst.</EnglishText>
       <PointerOffset>11276</PointerOffset>
       <JapaneseText>（マオウゼツエンコウ）奥義
 炎を纏った武器で斬り上げ、斬り落とす剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Engulf your sword in flames as you swing
+it up then down.</EnglishText>
       <Notes/>
       <Id>1145</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11304</PointerOffset>
@@ -4909,19 +4910,21 @@ hurricane. Extends to Wind Burst.</EnglishText>
       <PointerOffset>11308</PointerOffset>
       <JapaneseText>（フウライジンケン）奥義
 風と雷を同時に纏い、嵐のような突きを繰り出す剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Combine the elements of wind and lightning
+to unleash a stormy thrust.</EnglishText>
       <Notes/>
       <Id>1147</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10828,11372</PointerOffset>
       <JapaneseText>（シュゴヒョウソウジン）奥義
 地面に冷気を纏った武器を刺し、氷柱を鋭く打ち出す剣技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Arcane: Plunge your ice-clad weapon into the ground
+to create a column of icicles.</EnglishText>
+      <Notes>Need to check if it's a column or if it's just around. Need to find associated arte with it too.</Notes>
       <Id>1148</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>11400</PointerOffset>
@@ -4935,10 +4938,11 @@ hurricane. Extends to Wind Burst.</EnglishText>
       <PointerOffset>11404</PointerOffset>
       <JapaneseText>（レッシンテンショウ）奥義
 地を砕き、衝撃波を吹き上げる剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Sunder the earth to blast shockwaves
+towards the skies.</EnglishText>
       <Notes/>
       <Id>1150</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10792,11432</PointerOffset>
@@ -4952,10 +4956,11 @@ hurricane. Extends to Wind Burst.</EnglishText>
       <PointerOffset>10796,11436</PointerOffset>
       <JapaneseText>（マジンメッショウカク）奥義
 魔神剣により敵を攻撃し、闇の剣で追い討ちをかける剣技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Arcane: Strike with a Demon Fang, then finish by
+conjuring dark spikes.</EnglishText>
+      <Notes>May need to look at arte</Notes>
       <Id>1152</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>13640,11464</PointerOffset>
@@ -5953,8 +5958,8 @@ mark on the ground to call lightning on the enemy.</EnglishText>
       <PointerOffset>13836</PointerOffset>
       <JapaneseText>（ムヒョウショウ）特技　追加技『霧氷鎚閃』
 空より地上へ向かい冷気を噴出し、相手に凍傷を負わせる戦技</JapaneseText>
-      <EnglishText>(Muhyoushou) Spew frost from the skies onto
-the enemy. Extend Effect: Rime Hammer</EnglishText>
+      <EnglishText>Spew frost from the skies onto the enemy.
+Extend to Rime Hammer.</EnglishText>
       <Notes>official extension is Rime Hammer, but Frost Hammer fits more</Notes>
       <Id>1267</Id>
       <Status>Editing</Status>
@@ -5971,10 +5976,11 @@ the enemy. Extend Effect: Rime Hammer</EnglishText>
       <PointerOffset>13868</PointerOffset>
       <JapaneseText>（シュンジンニャーゴ）特技
 獲物を狙って勢い良く引っかく戦技だにゃ〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Swiftly claw at my prey with great
+meowmentum~.</EnglishText>
       <Notes/>
       <Id>1269</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13896</PointerOffset>
@@ -6005,10 +6011,11 @@ the enemy. Extend Effect: Rime Hammer</EnglishText>
       <PointerOffset>13932</PointerOffset>
       <JapaneseText>（セツニャ）特技
 空を駆け上がるように斬撃を放つ対空戦技だにゃ〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Send me fe-lining through the sky as I slash
+upwards.</EnglishText>
       <Notes/>
       <Id>1273</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13960</PointerOffset>
@@ -6073,19 +6080,21 @@ the enemy. Extend Effect: Rime Hammer</EnglishText>
       <PointerOffset>14060</PointerOffset>
       <JapaneseText>（シンクウレツニャン）特技
 高速で空中回転を行い、敵を何度も斬り伏せる戦技だにゃ〜</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Base: Spin through the air as I claw my foes over
+and over again.</EnglishText>
+      <Notes>Need a cat pun</Notes>
       <Id>1281</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>14092</PointerOffset>
       <JapaneseText>（レックソウ）特技
 突進しながら武器を最大限に突き出す戦技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Thrust your weapon forward as you charge
+at the enemy.</EnglishText>
       <Notes/>
       <Id>1282</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14124</PointerOffset>
@@ -7073,7 +7082,7 @@ to summon an explosive blast of water.</EnglishText>
       <PointerOffset>16364</PointerOffset>
       <JapaneseText>特技
 目にも止まらぬ三連射撃を行う射撃技</JapaneseText>
-      <EnglishText>Shoot the enemy three times consecutively.</EnglishText>
+      <EnglishText>Base: Shoot the enemy three times consecutively.</EnglishText>
       <Notes/>
       <Id>1396</Id>
       <Status>Editing</Status>
@@ -7090,8 +7099,8 @@ to summon an explosive blast of water.</EnglishText>
       <PointerOffset>16396</PointerOffset>
       <JapaneseText>特技　効果：気絶
 一枚のコインを投げ、それを狙うように撃つ射撃技</JapaneseText>
-      <EnglishText>Toss a coin at the enemy, and shoot it as it
-levels out with your foe.</EnglishText>
+      <EnglishText>Base: Toss a coin at the enemy, and shoot it as it
+levels out with your foe. Inflicts Stun.</EnglishText>
       <Notes/>
       <Id>1398</Id>
       <Status>Editing</Status>
@@ -7100,10 +7109,11 @@ levels out with your foe.</EnglishText>
       <PointerOffset>16428</PointerOffset>
       <JapaneseText>特技ＬＶ１
 地面で跳弾する弾を放つ早撃ち射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: A quick draw technique to fire bullets
+that ricochet off the ground.</EnglishText>
       <Notes/>
       <Id>1399</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16456</PointerOffset>
@@ -7117,10 +7127,10 @@ levels out with your foe.</EnglishText>
       <PointerOffset>16460</PointerOffset>
       <JapaneseText>（ソウジャ）特技
 地面で跳ね返る矢を放つ、特殊な射撃を行う闘弓技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Shoot arrows that ricochet off the ground.</EnglishText>
       <Notes/>
       <Id>1401</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16488</PointerOffset>
@@ -7134,10 +7144,10 @@ levels out with your foe.</EnglishText>
       <PointerOffset>16492</PointerOffset>
       <JapaneseText>奥義
 正面の広範囲に乱射する射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Fire wildly over a wide area in front of you.</EnglishText>
       <Notes/>
       <Id>1403</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16520</PointerOffset>
@@ -7151,8 +7161,8 @@ levels out with your foe.</EnglishText>
       <PointerOffset>16524</PointerOffset>
       <JapaneseText>特技
 銃の柄で敵を打ち上げ、上空へはりつけにする程の連射を行う射撃技</JapaneseText>
-      <EnglishText>Hit the enemy into the air with your gun, and
-shoot at them with exploding bullets.</EnglishText>
+      <EnglishText>Base: Hit the enemy into the air with your gun
+and shoot at them with exploding bullets.</EnglishText>
       <Notes/>
       <Id>1405</Id>
       <Status>Editing</Status>
@@ -7161,10 +7171,11 @@ shoot at them with exploding bullets.</EnglishText>
       <PointerOffset>16556</PointerOffset>
       <JapaneseText>特技ＬＶ１
 一時的に特殊な装置を取り付け、火炎放射を行う射撃技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Base LV1: Attach a special device that temporarily
+lets you shoot out flames.</EnglishText>
+      <Notes>Need to check what arte is this associated with and what it actually does.</Notes>
       <Id>1406</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>16584</PointerOffset>
@@ -7178,10 +7189,11 @@ shoot at them with exploding bullets.</EnglishText>
       <PointerOffset>16588</PointerOffset>
       <JapaneseText>奥義
 一時的に特殊な装置により、火炎放射を行う射撃技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Arcane: Attach a special device that temporarily
+lets you shoot out flames.</EnglishText>
+      <Notes>Need to figure out the difference with the description above</Notes>
       <Id>1408</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>6984,16616</PointerOffset>
@@ -7195,10 +7207,10 @@ shoot at them with exploding bullets.</EnglishText>
       <PointerOffset>16620</PointerOffset>
       <JapaneseText>（ショウハ）特技
 地面を撃つことにより、衝撃波を巻き上げる射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Shoot at the ground to generate shockwaves.</EnglishText>
       <Notes/>
       <Id>1410</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16648</PointerOffset>
@@ -7212,19 +7224,20 @@ shoot at them with exploding bullets.</EnglishText>
       <PointerOffset>16652</PointerOffset>
       <JapaneseText>特技
 飛びすさりながら射撃を行う射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Fire a shot as you leap backwards.</EnglishText>
       <Notes/>
       <Id>1412</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16684</PointerOffset>
       <JapaneseText>特技ＬＶ１　効果：気絶
 敵の頭を狙い、気絶を狙う射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: Target your foe's head to stun them.
+Inflicts Stun.</EnglishText>
       <Notes/>
       <Id>1413</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16712</PointerOffset>
@@ -7238,19 +7251,21 @@ shoot at them with exploding bullets.</EnglishText>
       <PointerOffset>16716</PointerOffset>
       <JapaneseText>特技　効果：気絶
 敵の頭部を狙い、気絶を狙う射撃技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Base: Target your foe's head to stun them.
+Inflicts Stun.</EnglishText>
+      <Notes>Is there any significant difference with the description above for the LV1 version?</Notes>
       <Id>1415</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16748</PointerOffset>
       <JapaneseText>特技ＬＶ１　効果：敏捷↓
 敵の脚を狙い、一時的に移動を封じる射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: Target your foe's legs to temporarily
+immobilize them. Effect: Agility↓</EnglishText>
       <Notes/>
       <Id>1416</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16776</PointerOffset>
@@ -7264,10 +7279,11 @@ shoot at them with exploding bullets.</EnglishText>
       <PointerOffset>16780</PointerOffset>
       <JapaneseText>特技　効果：敏捷↓
 敵の脚を狙い、一時的に移動を封じる射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Target your foe's legs to temporarily
+immobilize them. Effect: Agility↓</EnglishText>
       <Notes/>
       <Id>1418</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16808</PointerOffset>
@@ -7281,10 +7297,11 @@ shoot at them with exploding bullets.</EnglishText>
       <PointerOffset>16812</PointerOffset>
       <JapaneseText>（グレン・テン）特技
 炎を纏った矢を放ち敵を打ち上げる闘弓技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Fire arrows enveloped in flames that can
+launch foes into the air.</EnglishText>
       <Notes/>
       <Id>1420</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6888,16840</PointerOffset>
@@ -7343,7 +7360,7 @@ power of ice.</EnglishText>
       <PointerOffset>16940</PointerOffset>
       <JapaneseText>（セイハ）特技
 キラキラと輝く星を伴った連続射撃を行う射撃技</JapaneseText>
-      <EnglishText>Continuously shoots glittering arrows at the
+      <EnglishText>Base: Continuously shoots glittering arrows at the
 enemy in front of you.</EnglishText>
       <Notes/>
       <Id>1427</Id>
@@ -7353,10 +7370,11 @@ enemy in front of you.</EnglishText>
       <PointerOffset>16972</PointerOffset>
       <JapaneseText>（ハヤテ）特技
 矢を素早く連続で射る射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Rapidly fire arrows in front of you in
+quick succession.</EnglishText>
       <Notes/>
       <Id>1428</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17004</PointerOffset>
@@ -7390,10 +7408,11 @@ rain down on foes. Effect: Stun.</EnglishText>
       <PointerOffset>17068</PointerOffset>
       <JapaneseText>（ゴウレツ）特技ＬＶ１
 敵を浮かせる、気合の篭った矢を放つ射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: Fire an arrow imbued with energy that
+launches foes into the air.</EnglishText>
       <Notes/>
       <Id>1432</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17096</PointerOffset>
@@ -7407,10 +7426,11 @@ rain down on foes. Effect: Stun.</EnglishText>
       <PointerOffset>17100</PointerOffset>
       <JapaneseText>（ゴウレツ）特技
 敵を吹き飛ばす、気合の篭った矢を放つ射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Fire an arrow imbued with energy that blows
+foes away.</EnglishText>
       <Notes/>
       <Id>1434</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17128</PointerOffset>
@@ -7424,28 +7444,31 @@ rain down on foes. Effect: Stun.</EnglishText>
       <PointerOffset>17132</PointerOffset>
       <JapaneseText>（マヤ）奥義
 地上へ降り注ぐ雨のような闇の矢を放つ闘弓技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Unleash a barrage of arrows that rains
+down upon the ground.</EnglishText>
       <Notes/>
       <Id>1436</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17164</PointerOffset>
       <JapaneseText>（ソウジャ）特技ＬＶ２
 地上を這うように進む特殊な矢を放つ射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV2: Fire an arrow that slithers across the
+ground.</EnglishText>
       <Notes/>
       <Id>1437</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17196</PointerOffset>
       <JapaneseText>（ゲッカ）特技ＬＶ１
 空高く舞い上がり、多数の輝く矢を放つ射撃技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Base LV1: Soar high up into the air, then fire
+homing arrows made of light at the enemy below.</EnglishText>
+      <Notes>Need to check if it's homing arrows</Notes>
       <Id>1438</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>17224</PointerOffset>
@@ -7459,7 +7482,7 @@ rain down on foes. Effect: Stun.</EnglishText>
       <PointerOffset>17228</PointerOffset>
       <JapaneseText>（ゲッカ）特技
 空高く舞い上がり、多数の輝く矢を放つ射撃技</JapaneseText>
-      <EnglishText>Soar high up into the air, then shoot seeking
+      <EnglishText>Base: Soar high up into the air, then fire homing
 arrows made of light at the enemy below.</EnglishText>
       <Notes/>
       <Id>1440</Id>
@@ -7477,8 +7500,8 @@ arrows made of light at the enemy below.</EnglishText>
       <PointerOffset>17260</PointerOffset>
       <JapaneseText>（ヒリュウ）特技　追加技『飛竜連屠』
 敵に飛び掛り、蹴りつける闘弓技</JapaneseText>
-      <EnglishText>（ヒリュウ）Additional Arte: 『Dragon's Descent』
-敵に飛び掛り、蹴りつける闘弓技</EnglishText>
+      <EnglishText>Base: Leap at your enemy and kick them.
+Extends to Dragon's Descent.</EnglishText>
       <Notes/>
       <Id>1442</Id>
       <Status>Editing</Status>
@@ -7495,19 +7518,21 @@ arrows made of light at the enemy below.</EnglishText>
       <PointerOffset>17292</PointerOffset>
       <JapaneseText>（コフウ）特技
 前方近距離に衝撃波を起こし、敵を跳ね返す闘弓技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Fire an arrow in front of you to generates a
+shockwave that pushes back enemies.</EnglishText>
       <Notes/>
       <Id>1444</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17324</PointerOffset>
       <JapaneseText>特技ＬＶ１
 追尾性能のある弾を複数発射する射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: Fire multiple arrows that home onto
+the target.</EnglishText>
       <Notes/>
       <Id>1445</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17352</PointerOffset>
@@ -7521,10 +7546,11 @@ arrows made of light at the enemy below.</EnglishText>
       <PointerOffset>17356</PointerOffset>
       <JapaneseText>特技
 追尾性能のある弾を複数発射する射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Fire multiple arrows that home onto
+the target.</EnglishText>
       <Notes/>
       <Id>1447</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17384</PointerOffset>
@@ -7538,10 +7564,10 @@ arrows made of light at the enemy below.</EnglishText>
       <PointerOffset>17388</PointerOffset>
       <JapaneseText>奥義
 前方へ向けて連続でレーザーを放つ射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Continously fire lasers in front of you.</EnglishText>
       <Notes/>
       <Id>1449</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17416</PointerOffset>
