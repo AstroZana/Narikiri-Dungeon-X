@@ -3544,10 +3544,11 @@ Extends to Shadow Crush. Effect: Agility↓</EnglishText>
       <PointerOffset>14988,7948</PointerOffset>
       <JapaneseText>（ダンクウソウ）特技
 空を絶つ鋭い斬撃を連続で放つ戦技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Swing your spear to unleash a series of
+slashes that can cleave even the skies.</EnglishText>
       <Notes/>
       <Id>991</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11656,7976</PointerOffset>
@@ -3561,19 +3562,21 @@ Extends to Shadow Crush. Effect: Agility↓</EnglishText>
       <PointerOffset>11660,7980</PointerOffset>
       <JapaneseText>特技
 鋭く交差する様に前方に短剣を二本投げる投擲技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Throw two daggers in front of  you that
+intersect in a cross-shaped pattern.</EnglishText>
       <Notes/>
       <Id>993</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8012</PointerOffset>
       <JapaneseText>（イヅナオトシ）特技
 敵を掴み、上空より回転斬りで一気に落とす忍術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Grab the enemy and send them hurling down
+with a spinning slash from the sky.</EnglishText>
       <Notes/>
       <Id>994</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8040</PointerOffset>
@@ -3587,10 +3590,11 @@ Extends to Shadow Crush. Effect: Agility↓</EnglishText>
       <PointerOffset>8044</PointerOffset>
       <JapaneseText>（カトン・ホムラトカゲ）奥義　効果：熱毒
 投げつけた火の粉から巨大な火柱を起こす遁術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Throw down fire powder to conjure a
+massive pillar of fire. Inflicts Poison.</EnglishText>
       <Notes/>
       <Id>996</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8072</PointerOffset>
@@ -3604,10 +3608,11 @@ Extends to Shadow Crush. Effect: Agility↓</EnglishText>
       <PointerOffset>8076</PointerOffset>
       <JapaneseText>（スイトン・アオジシ）奥義　効果：睡眠
 手の内に圧縮した水の塊を一気に開放する遁術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Release a compressed mass of water from
+your palm in one swift motion. Inflicts Sleep.</EnglishText>
       <Notes/>
       <Id>998</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8104</PointerOffset>
@@ -3621,10 +3626,11 @@ Extends to Shadow Crush. Effect: Agility↓</EnglishText>
       <PointerOffset>8108</PointerOffset>
       <JapaneseText>（モクトン・ハガケノマイ）特技　効果：封印
 木の葉に紛れて瞬間的に空中に移動し、斬りかかる遁術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Blend among the leaves and jump into the air,
+then slash at your foe. Inflicts Seal.</EnglishText>
       <Notes/>
       <Id>1000</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8136</PointerOffset>
@@ -3638,10 +3644,11 @@ Extends to Shadow Crush. Effect: Agility↓</EnglishText>
       <PointerOffset>8140</PointerOffset>
       <JapaneseText>（ドトン・アリジゴク）奥義　効果：敏捷↓
 地面を砂に変え、敵を引きずり込む遁術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Transform the ground into sand and drag
+enemies into it. Effect: Agility↓.</EnglishText>
       <Notes/>
       <Id>1002</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8168</PointerOffset>
@@ -3655,10 +3662,11 @@ Extends to Shadow Crush. Effect: Agility↓</EnglishText>
       <PointerOffset>8172</PointerOffset>
       <JapaneseText>（ライトン・シビレクラゲ）特技　効果：麻痺
 高電圧の球を投げ、触れた敵を感電させる遁術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Throw a high-voltage electric orb to
+electrocute any foe it touches. Inflicts Paralysis.</EnglishText>
       <Notes/>
       <Id>1004</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8936,8200</PointerOffset>
@@ -3708,10 +3716,11 @@ assault your enemy.</EnglishText>
       <PointerOffset>8268</PointerOffset>
       <JapaneseText>（シップウジンライ）奥義
 雷を思わせる速度で一気に敵に襲い掛かる忍術</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Arcane: Strike your enemy in a single stroke at
+lightning speeds.</EnglishText>
+      <Notes>Need to check if it's single stroke or single motion</Notes>
       <Id>1010</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8296</PointerOffset>
@@ -4073,10 +4082,11 @@ to send the enemy flying.</EnglishText>
       <PointerOffset>8972</PointerOffset>
       <JapaneseText>（ライジンジュウレンゲキ）奥義
 写身による分身も利用した、五月雨の究極形</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: The ultimate form of Hell Rush made
+possible by utilizing a shadow clone.</EnglishText>
       <Notes/>
       <Id>1051</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9000</PointerOffset>
@@ -4832,10 +4842,11 @@ enemies to sleep through its melody. Inflicts Sleep.</EnglishText>
       <PointerOffset>9676,11116</PointerOffset>
       <JapaneseText>特技　効果：麻痺
 ややずれた調子のフレーズを口ずさみ、聞いた敵の行動を阻害する歌術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: A song that disrupts your foes' senses by
+deliberately singing off-key. Inflicts Paralysis.</EnglishText>
       <Notes/>
       <Id>1138</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11144</PointerOffset>
@@ -4849,10 +4860,11 @@ enemies to sleep through its melody. Inflicts Sleep.</EnglishText>
       <PointerOffset>11148</PointerOffset>
       <JapaneseText>（フウジンセンピョウシン）奥義
 風と冷気を共に纏い、素早い連続突きを繰り出す剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Wrap the user in wind and icy air and
+unleash a series of rapid thrusts.</EnglishText>
       <Notes/>
       <Id>1140</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11176</PointerOffset>
@@ -4974,10 +4986,11 @@ conjuring dark spikes.</EnglishText>
       <PointerOffset>13644,11468</PointerOffset>
       <JapaneseText>（ゴウ・マジンケン）特技
 武器に力を溜め、地上に打ち付けて連鎖する衝撃波を打ち出す戦技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Store up power in your weapon before slamming
+it on the ground to unleash a series of shockwaves.</EnglishText>
       <Notes/>
       <Id>1154</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11500</PointerOffset>
@@ -5010,19 +5023,21 @@ conjuring dark spikes.</EnglishText>
       <PointerOffset>11596</PointerOffset>
       <JapaneseText>特技ＬＶ１
 鋭く交差する様に前方に短剣を二本投げる投擲技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: Throw two daggers in front of  you that
+intersect in a cross-shaped pattern.</EnglishText>
       <Notes/>
       <Id>1158</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11628</PointerOffset>
       <JapaneseText>特技ＬＶ２
 鋭く交差する様に前方に短剣を二本投げる投擲技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV2: Throw two daggers in front of  you that
+intersect in a cross-shaped pattern.</EnglishText>
       <Notes/>
       <Id>1159</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11692</PointerOffset>
@@ -5157,10 +5172,11 @@ conjuring dark spikes.</EnglishText>
       <PointerOffset>12012</PointerOffset>
       <JapaneseText>奥義
 確率で大爆発を起こすコインを蹴り飛ばすギャンブル技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Kick a coin that has a chance to cause
+a massive explosion.</EnglishText>
       <Notes/>
       <Id>1175</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12040</PointerOffset>
@@ -5174,10 +5190,11 @@ conjuring dark spikes.</EnglishText>
       <PointerOffset>12044</PointerOffset>
       <JapaneseText>特技　効果：アイテム盗み
 斬り抜け様に敵の懐からアイテムを掠め取る盗術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Slash through the enemy as you snatch an
+item from their pockets. Effect: Steal.</EnglishText>
       <Notes/>
       <Id>1177</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12072</PointerOffset>
@@ -5367,10 +5384,11 @@ Extend: Adds a second punch.</EnglishText>
       <PointerOffset>12524</PointerOffset>
       <JapaneseText>（コウケン）特技ＬＶ１
 気を纏わせ瞬間的に鋼のような硬さを得る拳技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: Wrap yourself in Ki to make yourself as
+hard as steel.</EnglishText>
       <Notes/>
       <Id>1199</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12552</PointerOffset>
@@ -5384,7 +5402,8 @@ Extend: Adds a second punch.</EnglishText>
       <PointerOffset>12556</PointerOffset>
       <JapaneseText>（コウケン）特技　追加技『烈鋼重拳』
 気を纏わせ瞬間的に鋼のような硬さを得る拳技</JapaneseText>
-      <EnglishText>Extends to Steel Breaker</EnglishText>
+      <EnglishText>Base: Wrap yourself in Ki to make yourself as
+hard as steel. Extends to Steel Breaker.</EnglishText>
       <Notes/>
       <Id>1201</Id>
       <Status>Editing</Status>
@@ -5479,10 +5498,11 @@ Extend: Adds a second punch.</EnglishText>
       <PointerOffset>12812</PointerOffset>
       <JapaneseText>（サザンカ）特技
 反撃の暇を与えない、流れるような三段蹴り</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: A three-hit kick that leaves no room for
+a counterattack.</EnglishText>
       <Notes/>
       <Id>1212</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12840</PointerOffset>
@@ -5496,10 +5516,11 @@ Extend: Adds a second punch.</EnglishText>
       <PointerOffset>12844</PointerOffset>
       <JapaneseText>（ゲッセンショウゲキ）特技
 サマーソルトから鷹爪襲撃へ繋ぐ三連撃の足技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Base: A three-hit combo that begins with a somersault
+kick followed by a diving kick.</EnglishText>
+      <Notes>Need to check if this is correct</Notes>
       <Id>1214</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12872</PointerOffset>
@@ -5513,19 +5534,21 @@ Extend: Adds a second punch.</EnglishText>
       <PointerOffset>12876</PointerOffset>
       <JapaneseText>（テンゲツセン）特技
 後方への宙返りと共に繰り出す、相手を打ち上げる足技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Launch foes into the air using a backwards
+somersault kick.</EnglishText>
       <Notes/>
       <Id>1216</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12908</PointerOffset>
       <JapaneseText>（ヒエンレンキャク）特技ＬＶ１
 蹴り上げた後、更に回し蹴りを二発放つ足技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: Kick upwards and follow up with two
+consecutive spinning kicks.</EnglishText>
       <Notes/>
       <Id>1217</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5864,12936</PointerOffset>
@@ -5539,19 +5562,21 @@ Extend: Adds a second punch.</EnglishText>
       <PointerOffset>12940</PointerOffset>
       <JapaneseText>（ヒエンレンキャク）特技
 蹴り上げた後、更に回し蹴りを二発放つ足技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Kick upwards and follow up with two
+consecutive spinning kicks.</EnglishText>
       <Notes/>
       <Id>1219</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12972</PointerOffset>
       <JapaneseText>（ヨウソウシュウゲキ）特技ＬＶ１
 跳躍後、敵の頭上より高速で落下し蹴りを浴びせる足技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: Leap and deliver a high speed kick from
+above your foe's head.</EnglishText>
       <Notes/>
       <Id>1220</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13000</PointerOffset>
@@ -5565,19 +5590,21 @@ Extend: Adds a second punch.</EnglishText>
       <PointerOffset>13004</PointerOffset>
       <JapaneseText>（ヨウソウシュウゲキ）特技
 跳躍後、敵の頭上より高速で落下し衝撃波を浴びせる足技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Leap and deliver a high speed kick from
+above your foe's head.</EnglishText>
       <Notes/>
       <Id>1222</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13036</PointerOffset>
       <JapaneseText>（フリュウ）特技ＬＶ１　拳聖専用技
 踵に重心を乗せ、一気に敵を高く蹴り飛ばす足技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: By shifting your weight to your heel, launch foes
+with one swift kick. Exclusive to the Fist Saint Costume.</EnglishText>
       <Notes/>
       <Id>1223</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13064</PointerOffset>
@@ -5591,8 +5618,8 @@ Extend: Adds a second punch.</EnglishText>
       <PointerOffset>13068</PointerOffset>
       <JapaneseText>（フリュウ）奥義　追加技『浮流追月閃』
 かかとで敵を一気に蹴り飛ばす足技</JapaneseText>
-      <EnglishText>（フリュウ）Additional Arte: 『浮流追月閃』
-かかとで敵を一気に蹴り飛ばす足技</EnglishText>
+      <EnglishText>Arcane: Kick foes high into the air with your heel.
+Extends to Flashing Current.</EnglishText>
       <Notes/>
       <Id>1225</Id>
       <Status>Editing</Status>
@@ -5601,10 +5628,11 @@ Extend: Adds a second punch.</EnglishText>
       <PointerOffset>13100</PointerOffset>
       <JapaneseText>（ハコウ）特技ＬＶ１
 気を拳より打ち出すことで、体の内部に直接衝撃を叩き込む気技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: Channel Qi from your fist to deliver a
+strike that damages your foe's internal organs.</EnglishText>
       <Notes/>
       <Id>1226</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13128</PointerOffset>
@@ -5618,8 +5646,8 @@ Extend: Adds a second punch.</EnglishText>
       <PointerOffset>13132</PointerOffset>
       <JapaneseText>（ハコウ）特技　追加技『嵐鬼甲』
 気を拳より打ち出すことで、体の内部に直接衝撃を叩き込む気技</JapaneseText>
-      <EnglishText>Base: Attack the enemy with energy created by the
-mind. Extend: Adds a few extra punches.</EnglishText>
+      <EnglishText>Base: Channel Qi from your fist to deliver a strike that damages
+your foe's internal organs. Extend: Adds a few extra punches.</EnglishText>
       <Notes/>
       <Id>1228</Id>
       <Status>Editing</Status>
@@ -5628,10 +5656,11 @@ mind. Extend: Adds a few extra punches.</EnglishText>
       <PointerOffset>13164</PointerOffset>
       <JapaneseText>（テンパショウ）特技ＬＶ１
 気を放出し敵を打ち上げ、更に真下から追撃する気技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: Release Qi to launch foes into the air,
+then strike them from below.</EnglishText>
       <Notes/>
       <Id>1229</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13192</PointerOffset>
@@ -9795,10 +9824,11 @@ poses is more cool!</EnglishText>
       <PointerOffset>26572</PointerOffset>
       <JapaneseText>特技
 拳を地面に叩きつけるように殴る技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Strike the ground with your fist as if you
+were punching it.</EnglishText>
       <Notes/>
       <Id>1707</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>26600</PointerOffset>
@@ -9812,10 +9842,10 @@ poses is more cool!</EnglishText>
       <PointerOffset>26604</PointerOffset>
       <JapaneseText>特技
 光の魔球を投げる技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Throw a ball of light at your foes.</EnglishText>
       <Notes/>
       <Id>1709</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>26632</PointerOffset>
@@ -9829,10 +9859,11 @@ poses is more cool!</EnglishText>
       <PointerOffset>26636</PointerOffset>
       <JapaneseText>（オタケビ）特殊技　効果：術防↑
 大きく声を張り上げて、自分の術防御力を上昇させる技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Raise your M. DEF by shouting loudly.
+Effect: M. DEF↑.</EnglishText>
       <Notes/>
       <Id>1711</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>26664</PointerOffset>
@@ -9969,10 +10000,11 @@ poses is more cool!</EnglishText>
       <PointerOffset>27404</PointerOffset>
       <JapaneseText>特技　効果：物攻↓
 頭頂部の発射口から光線を発射して攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Fire a beam from your head at your foes.
+Effect: P. ATK↓.</EnglishText>
       <Notes/>
       <Id>1727</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>27528</PointerOffset>
@@ -11582,10 +11614,11 @@ poses is more cool!</EnglishText>
       <PointerOffset>35084</PointerOffset>
       <JapaneseText>特技
 スラスターで加速をつけた体当たりで攻撃をする技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Base: Accelerate your body using thrusters to charge
+forward and body slam your enemies.</EnglishText>
+      <Notes>Need to check if thrusters are actually used.</Notes>
       <Id>1914</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>35112</PointerOffset>
@@ -11599,10 +11632,11 @@ poses is more cool!</EnglishText>
       <PointerOffset>35116</PointerOffset>
       <JapaneseText>特殊技　効果：物攻↑
 自分の物理攻撃力を上昇させる技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Increase your physical attack.
+Effect: P. ATK↑.</EnglishText>
       <Notes/>
       <Id>1916</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>35592</PointerOffset>
@@ -11623,19 +11657,20 @@ poses is more cool!</EnglishText>
     <Entry>
       <PointerOffset>35816</PointerOffset>
       <JapaneseText>後蹴り</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Back Kick</EnglishText>
       <Notes/>
       <Id>1919</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>35820</PointerOffset>
       <JapaneseText>（ウシロゲリ）特技
 強靭な後ろ足で敵を蹴り飛ばす技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Kick enemies away using your powerful
+hind legs.</EnglishText>
       <Notes/>
       <Id>1920</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>35848</PointerOffset>
@@ -11649,10 +11684,11 @@ poses is more cool!</EnglishText>
       <PointerOffset>35852</PointerOffset>
       <JapaneseText>特技　効果：暗闇
 口から漆黒のガスを噴射して攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Spew out a jet-black gas from your mouth
+onto your foes. Inflicts Blind.</EnglishText>
       <Notes/>
       <Id>1922</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>35880</PointerOffset>
@@ -11702,10 +11738,11 @@ poses is more cool!</EnglishText>
       <PointerOffset>35948</PointerOffset>
       <JapaneseText>特技　効果：術防↓
 胸部から闇の拡散魔弾を発射して攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Fire a dark magical bullet from your chest.
+Effect: M. DEF↓.</EnglishText>
       <Notes/>
       <Id>1928</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>26248,36040</PointerOffset>
@@ -11845,84 +11882,86 @@ poses is more cool!</EnglishText>
       <PointerOffset>37580</PointerOffset>
       <JapaneseText>特技
 はさみを突き上げる攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Thrust your pincers upward.</EnglishText>
       <Notes/>
       <Id>1945</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37612</PointerOffset>
       <JapaneseText>特技
 口から泡を連続で放出して攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Continously spew out bubbles from your mouth
+to assault your foes.</EnglishText>
       <Notes/>
       <Id>1946</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38056,37896,37416,37736</PointerOffset>
       <JapaneseText>ジェントルビーム！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gentle Beam!</EnglishText>
       <Notes/>
       <Id>1947</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37672,37352,37832,37992</PointerOffset>
       <JapaneseText>こんにちわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hello</EnglishText>
       <Notes/>
       <Id>1948</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37704,37864,37384,38024</PointerOffset>
       <JapaneseText>ころんじゃった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've Fallen</EnglishText>
       <Notes/>
       <Id>1949</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37768,37928,37448,38088</PointerOffset>
       <JapaneseText>かかっておいで</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bring it on!</EnglishText>
       <Notes/>
       <Id>1950</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37224,38408,38344</PointerOffset>
       <JapaneseText>プチフェイク</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Petite Fake</EnglishText>
       <Notes/>
       <Id>1951</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38536,37288,38472</PointerOffset>
       <JapaneseText>フェイク</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fake</EnglishText>
       <Notes/>
       <Id>1952</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44904,38568</PointerOffset>
       <JapaneseText>ファイアボール</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fireball</EnglishText>
       <Notes/>
       <Id>1953</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38572</PointerOffset>
       <JapaneseText>火系攻撃呪文の中で最も簡単なもの。火炎弾を発射する
 エクステンドスペル効果：火炎弾が増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The simplest of fire spells that shoots fireballs.
+Extend: Increase the number of fireballs.</EnglishText>
       <Notes/>
       <Id>1954</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38600</PointerOffset>
