@@ -3915,27 +3915,28 @@ immediately followed by a spinning kick.</EnglishText>
       <PointerOffset>8620</PointerOffset>
       <JapaneseText>（カスミゲリ）特技
 回転の勢いを利用した鋭い脚技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Utilize the momentum from your spin to
+fiercely kick your enemy.</EnglishText>
       <Notes/>
       <Id>1032</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8648</PointerOffset>
       <JapaneseText>王子ダッシュ</JapaneseText>
       <EnglishText>Ouji Dance</EnglishText>
-      <Notes/>
+      <Notes>We could name it Princely Dance. Same for the following artes that use "Ouji".</Notes>
       <Id>1033</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>8652</PointerOffset>
       <JapaneseText>（オウジダッシュ）特技
 王子ガ高速デ玉ヲ転ガシマース</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: The Prince rolls his ball at a high speed.</EnglishText>
       <Notes/>
       <Id>1034</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8680</PointerOffset>
@@ -3943,16 +3944,17 @@ immediately followed by a spinning kick.</EnglishText>
       <EnglishText>Ouji Dance S</EnglishText>
       <Notes/>
       <Id>1035</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>8684</PointerOffset>
       <JapaneseText>（オウジダッシュエス）特技
 王子ガ少シダケ高速デ玉ヲ転ガシマース</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base; The Prince rolls his ball a short distance 
+at a high speed.</EnglishText>
       <Notes/>
       <Id>1036</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8712</PointerOffset>
@@ -3960,16 +3962,17 @@ immediately followed by a spinning kick.</EnglishText>
       <EnglishText>Ouji Turn</EnglishText>
       <Notes/>
       <Id>1037</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>8716</PointerOffset>
       <JapaneseText>（オウジターン）特技
 王子ガ華麗ニターンシマース</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: The Prince makes a magnificent turn in the
+opposite direction.</EnglishText>
       <Notes/>
       <Id>1038</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8744</PointerOffset>
@@ -4310,10 +4313,11 @@ iron ball that moves in a circle.</EnglishText>
       <PointerOffset>9516</PointerOffset>
       <JapaneseText>奥義
 ミサイルを３発召喚し、敵に向け発射する発明技。触れた敵を爆破！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Launch three missiles and send them flying
+at your foes. They explode upon impact!</EnglishText>
       <Notes/>
       <Id>1077</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9544</PointerOffset>
@@ -4327,10 +4331,11 @@ iron ball that moves in a circle.</EnglishText>
       <PointerOffset>9548</PointerOffset>
       <JapaneseText>（ゴホウレン）特技　戦闘中のみ使用可能
 正面に圧縮した気の力を解放する近接棒術。自分のＨＰを若干回復する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Release compressed Qi power to restore a
+small amount of your HP. Only usable in battle.</EnglishText>
       <Notes/>
       <Id>1079</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9576</PointerOffset>
@@ -4344,10 +4349,11 @@ iron ball that moves in a circle.</EnglishText>
       <PointerOffset>9580</PointerOffset>
       <JapaneseText>（アマツガエシ）特技
 武器を地上に打ちつけ、その力を利用して振り上げる棒術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Strike your staff on the ground and use the
+rebounding force to strike upwards.</EnglishText>
       <Notes/>
       <Id>1081</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9608</PointerOffset>
@@ -4361,15 +4367,16 @@ iron ball that moves in a circle.</EnglishText>
       <PointerOffset>9612</PointerOffset>
       <JapaneseText>（スネクダキ）特技　効果：敏捷↓
 脚への攻撃により、敵を怯ませる棒術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Cripple foes by striking their feet.
+Effect: Agility↓.</EnglishText>
       <Notes/>
       <Id>1083</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9640</PointerOffset>
       <JapaneseText>五輪砕・裏法</JapaneseText>
-      <EnglishText>Gorinkudaki Rihou</EnglishText>
+      <EnglishText>Secret Poetry</EnglishText>
       <Notes/>
       <Id>1084</Id>
       <Status>Editing</Status>
@@ -4378,10 +4385,11 @@ iron ball that moves in a circle.</EnglishText>
       <PointerOffset>9644</PointerOffset>
       <JapaneseText>（ゴリンクダキ・リホウ）奥義
 瞬時に頭、首、腕、胴、脚への打撃を行う裏棒術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Strike the head, neck, arms, torso, and legs
+of your foe in an instant.</EnglishText>
       <Notes/>
       <Id>1085</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11112,9672</PointerOffset>
@@ -4403,10 +4411,11 @@ iron ball that moves in a circle.</EnglishText>
       <PointerOffset>11052,9740</PointerOffset>
       <JapaneseText>特技　効果：範囲内の味方の敏捷↑
 テンポの良いリズムで、自分と周囲の仲間を素早くする歌術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: A song that hastens both the user and nearby allies
+with an energetic beat. Effect: Agility↑ of nearby allies.</EnglishText>
       <Notes/>
       <Id>1088</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11208,9768</PointerOffset>
@@ -4420,10 +4429,11 @@ iron ball that moves in a circle.</EnglishText>
       <PointerOffset>11212,9772</PointerOffset>
       <JapaneseText>特技　効果：封印
 威圧感のあるフレーズを口ずさみ、問答無用で相手を黙らせる歌術</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Base: Silence your foes by singing an oppressive
+phrase. Inflicts Seal.</EnglishText>
+      <Notes>Need music knowledge; double check</Notes>
       <Id>1090</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9800</PointerOffset>
@@ -4437,10 +4447,11 @@ iron ball that moves in a circle.</EnglishText>
       <PointerOffset>9804</PointerOffset>
       <JapaneseText>特技
 音波を空間に放ち、精神的攻撃を行う歌術。くるくるま〜わ〜る〜ぅ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Release sound waves into the air that deals
+mental damage. Round and round it goes~.</EnglishText>
       <Notes/>
       <Id>1092</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9832</PointerOffset>
@@ -4454,10 +4465,11 @@ iron ball that moves in a circle.</EnglishText>
       <PointerOffset>9836</PointerOffset>
       <JapaneseText>奥義
 音波を自分の周囲で跳ね回らせ、精神的攻撃を行う歌術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Bounce soundwaves around yourself to deal
+mental damage.</EnglishText>
       <Notes/>
       <Id>1094</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11752,9864</PointerOffset>
@@ -4539,8 +4551,8 @@ numerous bombs and throw them.</EnglishText>
       <PointerOffset>10220</PointerOffset>
       <JapaneseText>（グレンシュウ）特技　追加技『リフレクトヒート』
 炎を纏わせた武器によって斬り裂く剣技</JapaneseText>
-      <EnglishText>（グレンシュウ）Additional Arte: 『Reflect Heat』
-炎を纏わせた武器によって斬り裂く剣技</EnglishText>
+      <EnglishText>Base: Slash at your foe with your weapon eveloped
+in flames. Extends to Reflect Heat.</EnglishText>
       <Notes/>
       <Id>1104</Id>
       <Status>Editing</Status>
@@ -8270,10 +8282,11 @@ projectiles. Effect: Projectile Nullification</EnglishText>
       <PointerOffset>18540</PointerOffset>
       <JapaneseText>特技
 空気を圧縮して風の弾を生み出し、投げつける技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Compress air to create bullets of wind and
+fire them at your target.</EnglishText>
       <Notes/>
       <Id>1513</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18600</PointerOffset>
@@ -8287,10 +8300,11 @@ projectiles. Effect: Projectile Nullification</EnglishText>
       <PointerOffset>18604</PointerOffset>
       <JapaneseText>特技
 激しく地面を叩きつけ、熱波を打ち出す技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Violently punch the ground to conjure a
+wave of flame geysers.</EnglishText>
       <Notes/>
       <Id>1515</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18632</PointerOffset>
@@ -8304,10 +8318,11 @@ projectiles. Effect: Projectile Nullification</EnglishText>
       <PointerOffset>18636</PointerOffset>
       <JapaneseText>特技
 地面に潜り、三発の放物線を描く弾を飛ばす技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Burrow underground and fire three mortar
+rounds that make a parabolic arc into the air.</EnglishText>
       <Notes/>
       <Id>1517</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18664</PointerOffset>
@@ -8321,10 +8336,11 @@ projectiles. Effect: Projectile Nullification</EnglishText>
       <PointerOffset>18668</PointerOffset>
       <JapaneseText>特技
 杖を回転させ、その先より激しく炎を吹き出す技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Ignite the tip of your staff and spin it
+to cause the flames to burst forward.</EnglishText>
       <Notes/>
       <Id>1519</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18696</PointerOffset>
@@ -8338,10 +8354,11 @@ projectiles. Effect: Projectile Nullification</EnglishText>
       <PointerOffset>18700</PointerOffset>
       <JapaneseText>特技
 地面に、踏むと爆発する力場を作り出す設置技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Place a magical field on the ground that
+detonates when stepped on.</EnglishText>
       <Notes/>
       <Id>1521</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18728</PointerOffset>
@@ -8355,10 +8372,11 @@ projectiles. Effect: Projectile Nullification</EnglishText>
       <PointerOffset>18732</PointerOffset>
       <JapaneseText>特技　効果：熱毒
 闇色の魔力の球を生み出し、敵に投げつける技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Throw a dark-magical orb filled with poison
+and throw it at your foe. Inflicts Poison.</EnglishText>
       <Notes/>
       <Id>1523</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18760</PointerOffset>
@@ -8372,10 +8390,11 @@ projectiles. Effect: Projectile Nullification</EnglishText>
       <PointerOffset>18764</PointerOffset>
       <JapaneseText>（コウヨクセン）特技
 翼を広げ、素早く体当たりを行う技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Spread your wings and dash forward
+to body slam your foes.</EnglishText>
       <Notes/>
       <Id>1525</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18792</PointerOffset>
@@ -8389,10 +8408,10 @@ projectiles. Effect: Projectile Nullification</EnglishText>
       <PointerOffset>18796</PointerOffset>
       <JapaneseText>（コウヨクダン）特技
 空高くからキリモミ状態で急降下を行う技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Fly upwards and spin dive from the sky.</EnglishText>
       <Notes/>
       <Id>1527</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18824</PointerOffset>
@@ -8406,10 +8425,11 @@ projectiles. Effect: Projectile Nullification</EnglishText>
       <PointerOffset>18828</PointerOffset>
       <JapaneseText>特技
 魔力を込めた杖により、敵を空高く打ち上げる技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Launch enemies high into the sky using
+your magic staff.</EnglishText>
       <Notes/>
       <Id>1529</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18856</PointerOffset>
@@ -8423,10 +8443,11 @@ projectiles. Effect: Projectile Nullification</EnglishText>
       <PointerOffset>18860</PointerOffset>
       <JapaneseText>特技
 魔力を星の形に集め、敵に向かって降らせる技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Shape magic power into stars and launch
+them in a downward arc.</EnglishText>
       <Notes/>
       <Id>1531</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18888</PointerOffset>
@@ -8434,16 +8455,17 @@ projectiles. Effect: Projectile Nullification</EnglishText>
       <EnglishText/>
       <Notes/>
       <Id>1532</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>18892</PointerOffset>
       <JapaneseText>特技　効果：麻痺
 帯電した体で突進を行う技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Charge forward with your electric body.
+Inflicts Paralysis.</EnglishText>
       <Notes/>
       <Id>1533</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18920</PointerOffset>
@@ -8451,16 +8473,17 @@ projectiles. Effect: Projectile Nullification</EnglishText>
       <EnglishText/>
       <Notes/>
       <Id>1534</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>18924</PointerOffset>
       <JapaneseText>特殊技
 無差別に雷を落とす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Indiscrimately rain down lightning around
+yourself.</EnglishText>
       <Notes/>
       <Id>1535</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18952</PointerOffset>
@@ -8474,27 +8497,29 @@ projectiles. Effect: Projectile Nullification</EnglishText>
       <PointerOffset>18956</PointerOffset>
       <JapaneseText>（ヤミノイバラ）特技
 足元の影から、植物を模した複数のトゲを打ち出し、敵を貫く技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Plunge your arms into the ground to conjure
+tendrils of darkness below your foes to pierce them.</EnglishText>
       <Notes/>
       <Id>1537</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18984</PointerOffset>
       <JapaneseText>黒竜吐息</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Black Dragon Breath</EnglishText>
+      <Notes>Need to re-translate</Notes>
       <Id>1538</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>18988</PointerOffset>
       <JapaneseText>（コクリュウトイキ）特技
 竜の頭を模して、そのアギトを大きく開いて闇のレーザーを放つ技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Form a dragon's head and open it's mouth
+wide open to shoot out a dark laser.</EnglishText>
       <Notes/>
       <Id>1539</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19016</PointerOffset>
@@ -8508,10 +8533,11 @@ projectiles. Effect: Projectile Nullification</EnglishText>
       <PointerOffset>19020</PointerOffset>
       <JapaneseText>（キジンレンゲキ）特技
 鬼神の如き連続攻撃で、敵を斬り刻む技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Carve your foes to pieces with a series
+of fierce strikes.</EnglishText>
       <Notes/>
       <Id>1541</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19080</PointerOffset>
@@ -8525,27 +8551,29 @@ projectiles. Effect: Projectile Nullification</EnglishText>
       <PointerOffset>19084</PointerOffset>
       <JapaneseText>特技
 自らを魔界に通じる扉に変化させ、瘴気の風を巻き起こす技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Transform yourself into a gateway to the
+demonic realm to unleash a storm of miasma.</EnglishText>
       <Notes/>
       <Id>1543</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19112</PointerOffset>
       <JapaneseText>鬼火</JapaneseText>
       <EnglishText>Ignis Fatuus</EnglishText>
-      <Notes/>
+      <Notes>Japanese name is Onibi; could use that instead</Notes>
       <Id>1544</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>19116</PointerOffset>
       <JapaneseText>（オニビ）特殊技
 邪念のこもった黒き灯火をまとわりつかせる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Conjure demonic will-o'-wisps that charge in
+front.</EnglishText>
       <Notes/>
       <Id>1545</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19208</PointerOffset>
@@ -8891,10 +8919,10 @@ poses is more cool!</EnglishText>
       <PointerOffset>19980</PointerOffset>
       <JapaneseText>特技
 口から火炎を放射する技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Spit out flames from your mouth.</EnglishText>
       <Notes/>
       <Id>1584</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20136</PointerOffset>
@@ -8944,10 +8972,10 @@ poses is more cool!</EnglishText>
       <PointerOffset>20364</PointerOffset>
       <JapaneseText>（ナゲキッス）特技
 ハート魔弾を飛ばして攻撃をする技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Base: Send out a heart-shaped magic bullet.</EnglishText>
+      <Notes>Maybe "fire" instead of "send out" - would need to check what the arte looks like in action.</Notes>
       <Id>1590</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>38184,34568,32456,21928,30664,26984,28904,25320,20968,37000,21096,32584,36680,25224,34472,21864,24488,27976,32776,35624,31240,23592,22152,28680,35144,37960,36360,20072,29160,23688,36232,30568,26888,22600,28200,21032,37192,27432,29768,36072,31944,34024,29640,21288,24872,34216,32648,38120,28104,21576,38376,29576,30312,25128,20168,24104,22472,20776,27912,26760,36776,22408,33256,24680,34856,29832,23112,38504,33480,26376,30120,30792,37640,36904,25416,29384,20584,25992,31464,33608,36584,25704,37256,27144,22216,26056,25768,25608,21768,33128,33384,31880,27560,27176,20840,20008,23272,30440,20264,23976,21704,35240,22984,33032,20520,36456,32200,37128,21512,37480,21224,23368,24584,38312,38248,28296,26280,29448,21352,28520,37320,23752,25032,27816,37800,20904,24744,23496,24360,35976,29064,38440,31720,35464,21640,28808,22888,20392</PointerOffset>
@@ -9057,10 +9085,11 @@ poses is more cool!</EnglishText>
       <PointerOffset>20748</PointerOffset>
       <JapaneseText>特技　効果：麻痺
 ジャンプして体当たり攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Jump up and body slam your foe.
+Inflicts Paralysis.</EnglishText>
       <Notes/>
       <Id>1603</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20808</PointerOffset>
@@ -9100,10 +9129,10 @@ poses is more cool!</EnglishText>
       <PointerOffset>21196</PointerOffset>
       <JapaneseText>（カイテンホネタタキ）特技
 骨棍棒を横に振り回して攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Perform a spin attack with your bone clubs.</EnglishText>
       <Notes/>
       <Id>1608</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21320</PointerOffset>
@@ -9134,36 +9163,37 @@ poses is more cool!</EnglishText>
     <Entry>
       <PointerOffset>21448</PointerOffset>
       <JapaneseText>フサフサクラッシュ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Fusafusa Crush</EnglishText>
+      <Notes>Need to see what the </Notes>
       <Id>1612</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>21452</PointerOffset>
       <JapaneseText>特技
 大きく振りかぶって叩きつける技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Make a huge swipe to knock back enemies.</EnglishText>
       <Notes/>
       <Id>1613</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>21480</PointerOffset>
       <JapaneseText>フサフサタックル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fusafusa Tackle</EnglishText>
       <Notes/>
       <Id>1614</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>21484</PointerOffset>
       <JapaneseText>特技
 体全体を使った体当たり攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base; Utilize your huge body by hurling yourself on
+your foes.</EnglishText>
       <Notes/>
       <Id>1615</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21608</PointerOffset>
@@ -9194,19 +9224,19 @@ poses is more cool!</EnglishText>
       <PointerOffset>22028</PointerOffset>
       <JapaneseText>特技
 噛み付き攻撃をした後、後方に投げ飛ばす技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Throw your foes behind after biting them.</EnglishText>
       <Notes/>
       <Id>1619</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22060</PointerOffset>
       <JapaneseText>特技
 口から高熱の火炎を吐く技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Release a roaring fire from your mouth.</EnglishText>
       <Notes/>
       <Id>1620</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22088</PointerOffset>
@@ -9238,10 +9268,10 @@ poses is more cool!</EnglishText>
       <PointerOffset>22124</PointerOffset>
       <JapaneseText>特技
 硬質クリスタルを飛ばして攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Launch sturdy crystals at your enemies.</EnglishText>
       <Notes/>
       <Id>1624</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22312</PointerOffset>
@@ -9272,19 +9302,19 @@ poses is more cool!</EnglishText>
     <Entry>
       <PointerOffset>22376</PointerOffset>
       <JapaneseText>ファイガボール</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Firaga Ball</EnglishText>
+      <Notes>Might need a better name for this</Notes>
       <Id>1628</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>22380</PointerOffset>
       <JapaneseText>特技
 口から火球を吐き出す技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Breathe out fireballs from your mouth.</EnglishText>
       <Notes/>
       <Id>1629</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22568</PointerOffset>
@@ -9332,19 +9362,21 @@ poses is more cool!</EnglishText>
       <PointerOffset>22732</PointerOffset>
       <JapaneseText>特技
 上半身を使って刺しと噛み付き攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Use the upper part of your body to stab
+your foe, then snap at them.</EnglishText>
       <Notes/>
       <Id>1635</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22764</PointerOffset>
       <JapaneseText>特技
 尻尾で動きを止めて、噛み付く技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Stop the movement of your foe, then
+snap at them with your pincers.</EnglishText>
       <Notes/>
       <Id>1636</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37544,22792</PointerOffset>
@@ -9368,10 +9400,11 @@ poses is more cool!</EnglishText>
       <PointerOffset>22828</PointerOffset>
       <JapaneseText>特技
 はさみを突き上げて敵を突き飛ばす技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Thrust your pincers upwards to send your
+foes flyinig.</EnglishText>
       <Notes/>
       <Id>1639</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37608,22856</PointerOffset>
@@ -9385,18 +9418,19 @@ poses is more cool!</EnglishText>
       <PointerOffset>22860</PointerOffset>
       <JapaneseText>特技
 口から泡を連続で放出する技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Release a continuous stream of bubbles from
+your mouth.</EnglishText>
       <Notes/>
       <Id>1641</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22952</PointerOffset>
       <JapaneseText>ジェルスロー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gel Throw</EnglishText>
       <Notes/>
       <Id>1642</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>23176</PointerOffset>
@@ -9436,10 +9470,11 @@ poses is more cool!</EnglishText>
       <PointerOffset>23244</PointerOffset>
       <JapaneseText>特技
 触手で敵をつかみ、針で複数回攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Grab your foes with your tentacles and
+stab them multiple times with your needles.</EnglishText>
       <Notes/>
       <Id>1647</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>23336</PointerOffset>
@@ -9452,7 +9487,7 @@ poses is more cool!</EnglishText>
     <Entry>
       <PointerOffset>23464</PointerOffset>
       <JapaneseText>ニードルショット</JapaneseText>
-      <EnglishText>Shoting Needle</EnglishText>
+      <EnglishText>Needle Shot</EnglishText>
       <Notes/>
       <Id>1649</Id>
       <Status>Editing</Status>
@@ -9523,10 +9558,10 @@ poses is more cool!</EnglishText>
       <PointerOffset>23948</PointerOffset>
       <JapaneseText>特技
 腕を振り上げて、敵を突き飛ばす技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Make an uppercut to knock your foes away.</EnglishText>
       <Notes/>
       <Id>1657</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>24040</PointerOffset>
@@ -9558,10 +9593,11 @@ poses is more cool!</EnglishText>
       <PointerOffset>24076</PointerOffset>
       <JapaneseText>特技
 地面にもぐり、不意に敵の目の前に飛び出して攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Burrow into the ground and burst out in
+front of your foe to strike at them.</EnglishText>
       <Notes/>
       <Id>1661</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37096,23080,27080,35336,27272,34120,29000,31816,35720,30760,33352,31336,24200</PointerOffset>
@@ -9619,10 +9655,11 @@ poses is more cool!</EnglishText>
       <PointerOffset>24300</PointerOffset>
       <JapaneseText>特技
 細く長い尻尾で鞭打攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Use your long, thin tail as a whip to
+strike your foes.</EnglishText>
       <Notes/>
       <Id>1668</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>24328</PointerOffset>
@@ -9636,10 +9673,11 @@ poses is more cool!</EnglishText>
       <PointerOffset>24332</PointerOffset>
       <JapaneseText>（チョウハツ）特殊技　効果：敏捷↑
 相手を挑発し、自分の敏捷性を上昇させる技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Provoke your foe and increase your agility.
+Effect: Agility↑.</EnglishText>
       <Notes/>
       <Id>1670</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>24552</PointerOffset>
@@ -9697,26 +9735,26 @@ poses is more cool!</EnglishText>
       <PointerOffset>25004</PointerOffset>
       <JapaneseText>特技
 口から極低温のガスを吐く技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Breathe out an icy gas from your mouth.</EnglishText>
       <Notes/>
       <Id>1677</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>25096</PointerOffset>
       <JapaneseText>サンダーボルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thunderbolt</EnglishText>
       <Notes/>
       <Id>1678</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>25192</PointerOffset>
       <JapaneseText>ファイヤーレイド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fire Raid</EnglishText>
       <Notes/>
       <Id>1679</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>25480</PointerOffset>
@@ -9758,19 +9796,20 @@ poses is more cool!</EnglishText>
       <PointerOffset>25548</PointerOffset>
       <JapaneseText>特技
 両手を振り下ろし、敵に叩きつける攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Swing down both of your hands to strike
+down your foe.</EnglishText>
       <Notes/>
       <Id>1684</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>25580</PointerOffset>
       <JapaneseText>特技
 全身を使った体当たり攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Land a full-body tackle on your foe.</EnglishText>
       <Notes/>
       <Id>1685</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>25672</PointerOffset>
@@ -9800,10 +9839,11 @@ poses is more cool!</EnglishText>
       <PointerOffset>25868</PointerOffset>
       <JapaneseText>（トビツツキ）特技　効果：敏捷↓
 急降下して口ばしでつつく技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Dive down and peck at your foes using
+your beak. Effect: Agility↓.</EnglishText>
       <Notes/>
       <Id>1689</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>25832,25896</PointerOffset>
@@ -9827,19 +9867,20 @@ poses is more cool!</EnglishText>
       <PointerOffset>25932</PointerOffset>
       <JapaneseText>（ハネパタパタ）特技
 羽ばたきながら体当たり攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Flap your wings to charge at your foes
+head-on.</EnglishText>
       <Notes/>
       <Id>1692</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>25964</PointerOffset>
       <JapaneseText>（タツマキ）特技
 羽ばたいて竜巻を起こして攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Flap your wings to generate a storm.</EnglishText>
       <Notes/>
       <Id>1693</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>26152</PointerOffset>
@@ -9879,19 +9920,21 @@ poses is more cool!</EnglishText>
       <PointerOffset>26220</PointerOffset>
       <JapaneseText>特技　効果：敏捷↓
 枝で敵を地面に叩きつける攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Slam your foes to the ground with your
+branches. Effect: Agility↓.</EnglishText>
       <Notes/>
       <Id>1698</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>26252</PointerOffset>
       <JapaneseText>特技　効果：敏捷↓
 枝を振り上げて敵を打ち飛ばす技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Swing your branch overhead to knock foes
+away. Effect: Agility↓.</EnglishText>
       <Notes/>
       <Id>1699</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>26344</PointerOffset>
@@ -10046,10 +10089,11 @@ Effect: M. DEF↑.</EnglishText>
       <PointerOffset>26732</PointerOffset>
       <JapaneseText>（オトギノクニヘヨウコソ）特技
 禁呪文で魔獣の頭を部分的に召喚してブレス攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Use a forbidden spell to summon a demon's
+head that releases a breath attack.</EnglishText>
       <Notes/>
       <Id>1717</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>26952</PointerOffset>
@@ -10229,10 +10273,11 @@ Effect: P. ATK↓.</EnglishText>
       <PointerOffset>27788</PointerOffset>
       <JapaneseText>特技　効果：睡眠
 スラスターで加速をつけて体当たりをする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Activate your thrusters to accelerate and
+body slam your foe. Inflicts Sleep.</EnglishText>
       <Notes/>
       <Id>1738</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>33224,28072</PointerOffset>
@@ -10245,10 +10290,10 @@ Effect: P. ATK↓.</EnglishText>
     <Entry>
       <PointerOffset>28168</PointerOffset>
       <JapaneseText>しめつけ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Constriction</EnglishText>
       <Notes/>
       <Id>1740</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>28264</PointerOffset>
@@ -10314,19 +10359,21 @@ Effect: P. ATK↓.</EnglishText>
       <PointerOffset>28460</PointerOffset>
       <JapaneseText>特技　効果：詠唱↓
 豪腕による突き上げで攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Uppercut your foe using your powerful arms.
+Effect: Casting Speed↓.</EnglishText>
       <Notes/>
       <Id>1748</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>28492</PointerOffset>
       <JapaneseText>特技　効果：詠唱↓
 大地を殴り、衝撃波で攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Slam your fist to the ground to send a
+shockwave at your foes. Effect: Casting Speed↓.</EnglishText>
       <Notes/>
       <Id>1749</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>28584</PointerOffset>
@@ -10349,7 +10396,7 @@ Effect: P. ATK↓.</EnglishText>
     <Entry>
       <PointerOffset>28616</PointerOffset>
       <JapaneseText>スライタックル</JapaneseText>
-      <EnglishText>Sly Tackle</EnglishText>
+      <EnglishText>Sli-Tackle</EnglishText>
       <Notes/>
       <Id>1752</Id>
       <Status>Editing</Status>
@@ -10358,15 +10405,16 @@ Effect: P. ATK↓.</EnglishText>
       <PointerOffset>28620</PointerOffset>
       <JapaneseText>特技　効果：麻痺
 両肩の角を突き出し体当たり攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Thrust forward your horns on both shoulders
+and charge forward. Inflicts Paralysis.</EnglishText>
       <Notes/>
       <Id>1753</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>28648</PointerOffset>
       <JapaneseText>スライスピア</JapaneseText>
-      <EnglishText>Sly Spear</EnglishText>
+      <EnglishText>Sli-Spear</EnglishText>
       <Notes/>
       <Id>1754</Id>
       <Status>Editing</Status>
@@ -10375,10 +10423,11 @@ Effect: P. ATK↓.</EnglishText>
       <PointerOffset>28652</PointerOffset>
       <JapaneseText>特技　効果：麻痺
 両手の棘を突き出し体当たり攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Thrust forward your thorns from both hands
+and charge forward. Inflicts Paralysis.</EnglishText>
       <Notes/>
       <Id>1755</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>36392,28776</PointerOffset>
@@ -10434,19 +10483,21 @@ Effect: P. ATK↓.</EnglishText>
       <PointerOffset>29292</PointerOffset>
       <JapaneseText>特技　効果：暗闇
 アームを突き刺しフックではさみこむ攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Thrust out your pincers and clamp down on
+your foe. Inflicts Blind.</EnglishText>
       <Notes/>
       <Id>1762</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>29324</PointerOffset>
       <JapaneseText>特技　効果：暗闇
 アームを上から叩きつけて攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Slam down both your arms from above.
+Inflicts Blind.</EnglishText>
       <Notes/>
       <Id>1763</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>36168,29352</PointerOffset>
@@ -10460,10 +10511,11 @@ Effect: P. ATK↓.</EnglishText>
       <PointerOffset>29356</PointerOffset>
       <JapaneseText>特技　効果：暗闇
 両手のフックを回転させて体当たり攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Gyrate the hooks on both hands and body
+slam your foe. Inflicts Blind.</EnglishText>
       <Notes/>
       <Id>1765</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>29544</PointerOffset>
@@ -10546,53 +10598,56 @@ Effect: P. ATK↓.</EnglishText>
     <Entry>
       <PointerOffset>30024</PointerOffset>
       <JapaneseText>ジャンプカブト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Jump Kabuto</EnglishText>
       <Notes/>
       <Id>1775</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>30028</PointerOffset>
       <JapaneseText>特技　効果：物防↓
 空中で角を振り回して攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Jump into the air and swing your horns.
+Effect: P.DEF↓.</EnglishText>
       <Notes/>
       <Id>1776</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>30056</PointerOffset>
       <JapaneseText>ミニジャンプカブト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mini Jump Kabuto</EnglishText>
       <Notes/>
       <Id>1777</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>30060</PointerOffset>
       <JapaneseText>特技　効果：物防↓
 空中で角を振り下ろして攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Jump into the air and swing down your horn.
+Effect: P.DEF↓.</EnglishText>
       <Notes/>
       <Id>1778</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>30088</PointerOffset>
       <JapaneseText>ハイパーカブト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hyper Kabuto</EnglishText>
       <Notes/>
       <Id>1779</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>30092</PointerOffset>
       <JapaneseText>特技　効果：物防↓
 空中から角で敵を突き上げて宙へ投げ飛す技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Barrel roll into the air and launch foes into
+the air with your horn. Effect: P.DEF↓.</EnglishText>
       <Notes/>
       <Id>1780</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>30216</PointerOffset>
@@ -10642,10 +10697,11 @@ Effect: P. ATK↓.</EnglishText>
       <PointerOffset>30284</PointerOffset>
       <JapaneseText>特技　効果：物防↓
 大型生物捕食用の口で敵を攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Munch down on foes with your mouth that was
+designed to prey on large creatures. Effect: P.DEF↓.</EnglishText>
       <Notes/>
       <Id>1786</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22024,30472</PointerOffset>
@@ -10737,10 +10793,11 @@ Effect: P. ATK↓.</EnglishText>
       <PointerOffset>30956</PointerOffset>
       <JapaneseText>特技　効果：石化
 口から泥を高圧力で噴射して攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Spray mud from your mouth at high pressures.
+Inflicts Petrify.</EnglishText>
       <Notes/>
       <Id>1797</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>30984</PointerOffset>
@@ -10808,10 +10865,11 @@ Effect: P. ATK↓.</EnglishText>
       <PointerOffset>31084</PointerOffset>
       <JapaneseText>特技
 空中からひねりをつけた体当たり攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Body slam your foes from midair as you 
+spin.</EnglishText>
       <Notes/>
       <Id>1805</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31112</PointerOffset>
@@ -10861,10 +10919,11 @@ Effect: P. ATK↓.</EnglishText>
       <PointerOffset>31180</PointerOffset>
       <JapaneseText>特技
 両手を振り下ろして攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Swing both hands downward to slam your
+foes.</EnglishText>
       <Notes/>
       <Id>1811</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31208</PointerOffset>
@@ -10878,10 +10937,11 @@ Effect: P. ATK↓.</EnglishText>
       <PointerOffset>31212</PointerOffset>
       <JapaneseText>特技
 腕をバネにして加速をつけた体当たり攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Use your arm as a spring to launch yourself
+and body slam your foes.</EnglishText>
       <Notes/>
       <Id>1813</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>35400,31400</PointerOffset>
@@ -10973,18 +11033,18 @@ Effect: P. ATK↓.</EnglishText>
       <PointerOffset>31692</PointerOffset>
       <JapaneseText>特技
 口から高温のガスを吐く技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Release scorching gas from your mouth.</EnglishText>
       <Notes/>
       <Id>1824</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31848</PointerOffset>
       <JapaneseText>火の玉</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fireball</EnglishText>
       <Notes/>
       <Id>1825</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32008</PointerOffset>
@@ -11034,19 +11094,21 @@ Effect: P. ATK↓.</EnglishText>
       <PointerOffset>32108</PointerOffset>
       <JapaneseText>特技　効果：術攻↓
 強靭な後ろ足で敵を蹴り飛ばす技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Kick foes away with your powerful hind
+legs. Effect: M.ATK↓.</EnglishText>
       <Notes/>
       <Id>1831</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32140</PointerOffset>
       <JapaneseText>特技　効果：術攻↓
 体当たりで攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Hurl your body at your foe to body slam
+them. Effect: M.ATK↓.</EnglishText>
       <Notes/>
       <Id>1832</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>33736,32168</PointerOffset>
@@ -11060,10 +11122,11 @@ Effect: P. ATK↓.</EnglishText>
       <PointerOffset>32172</PointerOffset>
       <JapaneseText>特技　効果：術攻↓
 渾身の力をこめた体当たりで攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Put all your strength into a full-body tackle.
+Effect: M.ATK↓.</EnglishText>
       <Notes/>
       <Id>1834</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>25544,36520,32264</PointerOffset>
@@ -11139,10 +11202,11 @@ Effect: P. ATK↓.</EnglishText>
       <PointerOffset>32428</PointerOffset>
       <JapaneseText>（カイテンギリ）特技　効果：敏捷↓
 自分を回転させて斬撃攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Spin yourself to slash around yourself.
+Effect: Agility↓.</EnglishText>
       <Notes/>
       <Id>1843</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>35560,23944,32552</PointerOffset>
@@ -11200,18 +11264,19 @@ Effect: P. ATK↓.</EnglishText>
       <PointerOffset>32936</PointerOffset>
       <JapaneseText>もちあげ</JapaneseText>
       <EnglishText>Lift</EnglishText>
-      <Notes/>
+      <Notes>Maybe Fling might be better</Notes>
       <Id>1850</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>32940</PointerOffset>
       <JapaneseText>特技
 下方から足を忍ばせ、それを振り上げて攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Slip your tentacles beneath your foe and swing
+it upward to fling your foes into the air.</EnglishText>
       <Notes/>
       <Id>1851</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32968</PointerOffset>
@@ -11335,10 +11400,11 @@ descent to slam the enemy.</EnglishText>
       <PointerOffset>33804</PointerOffset>
       <JapaneseText>特技
 回転して尻尾で敵をなぎ払う技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Spin yourself around to sweep away enemies
+with your tail.</EnglishText>
       <Notes/>
       <Id>1866</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>33832</PointerOffset>
@@ -11352,27 +11418,29 @@ descent to slam the enemy.</EnglishText>
       <PointerOffset>33836</PointerOffset>
       <JapaneseText>特技
 両腕を振り下ろし敵を地面に叩きつける攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Slam down both arms to smash your foes
+into the ground.</EnglishText>
       <Notes/>
       <Id>1868</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>33864</PointerOffset>
       <JapaneseText>ドラゴンフィスト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dragon Fist</EnglishText>
       <Notes/>
       <Id>1869</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>33868</PointerOffset>
       <JapaneseText>特技
 全身のバネを利用したアッパー攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Use your hind legs as a spring to land
+a powerful jumping uppercut.</EnglishText>
       <Notes/>
       <Id>1870</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>33896</PointerOffset>
@@ -11422,10 +11490,11 @@ descent to slam the enemy.</EnglishText>
       <PointerOffset>33964</PointerOffset>
       <JapaneseText>特技
 手の甲から光線を発射して攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Shoot out beams from the back of your
+hands in front of you.</EnglishText>
       <Notes/>
       <Id>1876</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>33992</PointerOffset>
@@ -11439,10 +11508,11 @@ descent to slam the enemy.</EnglishText>
       <PointerOffset>33996</PointerOffset>
       <JapaneseText>特殊技　効果：物攻↑
 内臓ジェネレータを活性化させて自分の物理攻撃力を上昇させる技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Stimulate your internal generator to increase
+your physical attack power. Effect: P.ATK↑.</EnglishText>
       <Notes/>
       <Id>1878</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>34152</PointerOffset>
@@ -11507,24 +11577,24 @@ descent to slam the enemy.</EnglishText>
     <Entry>
       <PointerOffset>34376</PointerOffset>
       <JapaneseText>ボラスフレイム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bolas Flame</EnglishText>
       <Notes/>
       <Id>1886</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>34380</PointerOffset>
       <JapaneseText>特技
 口から高温の火炎を放射し攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Release a scorching flame from your mouth.</EnglishText>
       <Notes/>
       <Id>1887</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>34408</PointerOffset>
       <JapaneseText>ボラスサイクロン</JapaneseText>
-      <EnglishText>ボラスCyclone</EnglishText>
+      <EnglishText>Bolas Cyclone</EnglishText>
       <Notes/>
       <Id>1888</Id>
       <Status>Editing</Status>
@@ -11533,10 +11603,10 @@ descent to slam the enemy.</EnglishText>
       <PointerOffset>34412</PointerOffset>
       <JapaneseText>特技
 両翼を羽ばたかせて竜巻を発生させる技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Flap your wings to generate a tornado.</EnglishText>
       <Notes/>
       <Id>1889</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>34440</PointerOffset>
@@ -11550,10 +11620,11 @@ descent to slam the enemy.</EnglishText>
       <PointerOffset>34444</PointerOffset>
       <JapaneseText>（イカク）特殊技　効果：物攻↑
 威嚇行動をとり、自分の物理攻撃力を上昇させる技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Intimidate your foes and increase your
+physical attack power. Effect: P.ATK↑.</EnglishText>
       <Notes/>
       <Id>1891</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>34536</PointerOffset>
@@ -11627,10 +11698,11 @@ descent to slam the enemy.</EnglishText>
       <PointerOffset>34764</PointerOffset>
       <JapaneseText>特技　効果：麻痺
 刃物状の尻尾を振って攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Swing your blade-like tail to attack your foes.
+Inflicts Paralysis.</EnglishText>
       <Notes/>
       <Id>1900</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>34792</PointerOffset>
@@ -11644,10 +11716,11 @@ descent to slam the enemy.</EnglishText>
       <PointerOffset>34796</PointerOffset>
       <JapaneseText>特技　効果：麻痺
 刃物状の尻尾を振り下ろして攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Swing down your blade-like tail to strike
+your foes. Inflicts Paralysis.</EnglishText>
       <Notes/>
       <Id>1902</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>34824</PointerOffset>
@@ -11661,10 +11734,11 @@ descent to slam the enemy.</EnglishText>
       <PointerOffset>34828</PointerOffset>
       <JapaneseText>特技　効果：麻痺
 刃物状の尻尾を左右に広げ、駆け抜けると同時に切り裂く攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Lower your blade-like tail to body level and slash
+with it as you charge forward. Inflicts Paralysis.</EnglishText>
       <Notes/>
       <Id>1904</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>34952</PointerOffset>
@@ -11714,10 +11788,10 @@ descent to slam the enemy.</EnglishText>
       <PointerOffset>35020</PointerOffset>
       <JapaneseText>（ニダンギリ）特技
 剣を二回振り下ろして攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Attack by swinging down your sword twice.</EnglishText>
       <Notes/>
       <Id>1910</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>35048</PointerOffset>
@@ -11749,7 +11823,7 @@ descent to slam the enemy.</EnglishText>
       <PointerOffset>35084</PointerOffset>
       <JapaneseText>特技
 スラスターで加速をつけた体当たりで攻撃をする技</JapaneseText>
-      <EnglishText>Base: Accelerate your body using thrusters to charge
+      <EnglishText>Base: Launch your body using thrusters to charge
 forward and body slam your enemies.</EnglishText>
       <Notes>Need to check if thrusters are actually used.</Notes>
       <Id>1914</Id>
@@ -11933,10 +12007,11 @@ Effect: M. DEF↓.</EnglishText>
       <PointerOffset>36300</PointerOffset>
       <JapaneseText>（オオオノ・ヨコギリ）特技　効果：封印
 大斧を横に振り攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Attack by swinging your great axe horizontally.
+Inflicts Seal.</EnglishText>
       <Notes/>
       <Id>1935</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>36328</PointerOffset>
@@ -11950,10 +12025,11 @@ Effect: M. DEF↓.</EnglishText>
       <PointerOffset>36332</PointerOffset>
       <JapaneseText>（オオオノ・タテギリ）特技　効果：封印
 大斧を振り下ろして攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Attack by swinging down your great axe.
+Inflicts Seal.</EnglishText>
       <Notes/>
       <Id>1937</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>36424</PointerOffset>
@@ -13927,10 +14003,11 @@ light with no holds barred.</EnglishText>
       <PointerOffset>42892</PointerOffset>
       <JapaneseText>（アスカコンボ）秘奥義
 飛鳥オリジナルの、怒涛の１０連続コンビネーションアタック！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mystic: An Asuka original technique where she
+lands a relentless 10-hit combo!</EnglishText>
       <Notes/>
       <Id>2163</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42920</PointerOffset>
@@ -13944,10 +14021,11 @@ light with no holds barred.</EnglishText>
       <PointerOffset>42924</PointerOffset>
       <JapaneseText>秘奥義
 春香が歌うその場所は、どこであろうとステージと化す</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Wherever Haruka sings, it'll always be
+a stage.</EnglishText>
       <Notes/>
       <Id>2165</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42952</PointerOffset>
@@ -13961,10 +14039,11 @@ light with no holds barred.</EnglishText>
       <PointerOffset>42956</PointerOffset>
       <JapaneseText>（カタマリダマシイ！）秘奥義
 転ガシテスッキリ！　ソノ規模ハ果テシナク、宇宙サイズニナリマース！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mystic: Turn it around and around! Enlargen your ball to a
+cosmic size and experience the boundless nature of space!</EnglishText>
       <Notes/>
       <Id>2167</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>42984</PointerOffset>
@@ -13988,18 +14067,19 @@ Drawn Sword Artes.</EnglishText>
       <PointerOffset>43020</PointerOffset>
       <JapaneseText>（サンソウエンコン）秘奥義
 鋭く、赤き剣閃が敵を斬り刻む</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Mystic: Slash through your foes with a flash of
+crimson steel.</EnglishText>
+      <Notes>Need to know what this arte looks like</Notes>
       <Id>2170</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>43048</PointerOffset>
       <JapaneseText>Ｅエクセキューション</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Execution</EnglishText>
       <Notes/>
       <Id>2171</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43080</PointerOffset>
@@ -14021,19 +14101,21 @@ Drawn Sword Artes.</EnglishText>
       <PointerOffset>42668,45580,42764,45548,43116</PointerOffset>
       <JapaneseText>秘奥義　ＥＢＧ３割以下で最優先発動
 禁呪文の一つ。空間を歪め、超重力の渦を発生させる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mystic: Activates when EBG is less than 30%. A forbidden
+spell that distorts space to create a gravitational field.</EnglishText>
       <Notes/>
       <Id>2174</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42700,45612,42796,45644,43148</PointerOffset>
       <JapaneseText>秘奥義　ＥＢＧ３割〜６割で最優先発動
 禁呪文の一つ。空より隕石を召喚し、地表を吹き飛ばす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mystic: Activates when EBG is between 30% and 60%.
+A forbidden spell that rains meteors upon the Earth.</EnglishText>
       <Notes/>
       <Id>2175</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43208</PointerOffset>
@@ -14063,10 +14145,11 @@ Drawn Sword Artes.</EnglishText>
       <PointerOffset>42252,43276</PointerOffset>
       <JapaneseText>（メッサイトッコウゲキ）秘奥義
 目にも留まらぬ連撃からの突進攻撃</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Mystic: Charge at your foes after landing a series
+of lightning-fast strikes.</EnglishText>
+      <Notes>Will need to check</Notes>
       <Id>2179</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>43304</PointerOffset>
@@ -14080,10 +14163,11 @@ Drawn Sword Artes.</EnglishText>
       <PointerOffset>43308</PointerOffset>
       <JapaneseText>（コウソクイドウ・マエ）特殊技　効果：無敵
 体を丸くして、前方へ高速で移動する技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Curl up into a ball and charge forward
+at high speeds. Effect: Invincible.</EnglishText>
       <Notes/>
       <Id>2181</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43336</PointerOffset>
@@ -14097,10 +14181,11 @@ Drawn Sword Artes.</EnglishText>
       <PointerOffset>43340</PointerOffset>
       <JapaneseText>（キンキュウカイヒ）特殊技　効果：無敵
 素早く飛び跳ね、敵の攻撃を回避する技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Leap quickly to dodge enemy attacks.
+Effect: Invincible.</EnglishText>
       <Notes/>
       <Id>2183</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43368</PointerOffset>
@@ -14132,7 +14217,7 @@ restores (LVL x 10 + 150) HP to one ally.</EnglishText>
       <PointerOffset>43404</PointerOffset>
       <JapaneseText>特殊技　効果：仲間の戦闘不能解除、ＨＰ、ＥＢＧ全回復
 自らを犠牲に仲間を復活させるダンス</JapaneseText>
-      <EnglishText>Sacrifices self to revive one ally
+      <EnglishText>Special: Sacrifices self to revive one ally
 from KO with full HP and EBG.</EnglishText>
       <Notes/>
       <Id>2187</Id>
@@ -14355,10 +14440,11 @@ around you. Heals 15% of HP.</EnglishText>
       <PointerOffset>43852</PointerOffset>
       <JapaneseText>特殊技
 前方に、月の力が降り注ぐ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Use the power of the moon to rain down
+beams of light in front of you.</EnglishText>
       <Notes/>
       <Id>2213</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43880</PointerOffset>
@@ -14366,16 +14452,17 @@ around you. Heals 15% of HP.</EnglishText>
       <EnglishText/>
       <Notes/>
       <Id>2214</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43884</PointerOffset>
       <JapaneseText>特技
 帯電した体を地面に打ちつけ、地上に電気を流す技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Slam your electric body to the ground
+to transmit electricity through it.</EnglishText>
       <Notes/>
       <Id>2215</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43912</PointerOffset>
@@ -14389,10 +14476,11 @@ around you. Heals 15% of HP.</EnglishText>
       <PointerOffset>43916</PointerOffset>
       <JapaneseText>特殊技
 影を鋭き槍とし、地面より複数突き上げる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Transform your shadows into spears that
+strike multiple times from the ground.</EnglishText>
       <Notes/>
       <Id>2217</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43944</PointerOffset>
@@ -14406,10 +14494,11 @@ around you. Heals 15% of HP.</EnglishText>
       <PointerOffset>43948</PointerOffset>
       <JapaneseText>（アッキゲキメツ）特殊技
 邪悪な者を退ける、聖なる武具による一斉攻撃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Repel the wicked with an all-out attack
+using your sacred armaments.</EnglishText>
       <Notes/>
       <Id>2219</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43976</PointerOffset>
@@ -14423,10 +14512,11 @@ around you. Heals 15% of HP.</EnglishText>
       <PointerOffset>43980</PointerOffset>
       <JapaneseText>特技
 自分を中心として、全てを破壊する複数のイカズチを落とす技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Conjure multiple lightning bolts around yourself
+that obliterates anything in its wake.</EnglishText>
       <Notes/>
       <Id>2221</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44008</PointerOffset>
@@ -14440,10 +14530,11 @@ around you. Heals 15% of HP.</EnglishText>
       <PointerOffset>44012</PointerOffset>
       <JapaneseText>特殊技
 炎を帯びた大剣を、ブーメランのように投げつける</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Throw a flaming greatsword like a
+boomerang.</EnglishText>
       <Notes/>
       <Id>2223</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44040</PointerOffset>
@@ -14457,10 +14548,11 @@ around you. Heals 15% of HP.</EnglishText>
       <PointerOffset>44044</PointerOffset>
       <JapaneseText>特技
 素早く突進し、敵を掴み、殴り飛ばす技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Dash forward to grab the enemy and
+punch them away.</EnglishText>
       <Notes/>
       <Id>2225</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44072</PointerOffset>
@@ -14474,10 +14566,11 @@ around you. Heals 15% of HP.</EnglishText>
       <PointerOffset>44076</PointerOffset>
       <JapaneseText>特殊技
 灼熱のブレスを広範囲に撒き散らす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Release a scorching breath over a
+wide range.</EnglishText>
       <Notes/>
       <Id>2227</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44104</PointerOffset>
@@ -14491,10 +14584,11 @@ around you. Heals 15% of HP.</EnglishText>
       <PointerOffset>44108</PointerOffset>
       <JapaneseText>（キサマラナゾ！）特殊技
 鋼の肉体に物を言わせ、強烈な突進攻撃を行う</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Utilize your steel-like body as a weapon
+and charge forward fiercely.</EnglishText>
       <Notes/>
       <Id>2229</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44136</PointerOffset>
