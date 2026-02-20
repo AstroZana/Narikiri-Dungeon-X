@@ -12,53 +12,56 @@
     <Entry>
       <PointerOffset>416,17552</PointerOffset>
       <JapaneseText>なりきり士</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Narikiri</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>420,17556</PointerOffset>
       <JapaneseText>防御属性『無』（耐性：--　弱点：--）
 あらゆる姿に「なりきる」ことで、人々を助ける職業</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: None (Resist: --, Weak: --)
+A job that assists others by roleplaying into various forms.</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>824</PointerOffset>
       <JapaneseText>ディオス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dios</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>828</PointerOffset>
       <JapaneseText>防御属性『無』（耐性：--　弱点：--）
 ディオの「もう一つ」の可能性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: None (Resist: --, Weak: --)
+An alternate possibility for Dio.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1232</PointerOffset>
       <JapaneseText>剣豪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Swordsman</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1236</PointerOffset>
       <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
 素早い動きと、刀による連撃で戦うコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Wind (Resist: Lightning, Weak: Earth)
+A costume made for quick movements and to string sword strikes.</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1640</PointerOffset>
