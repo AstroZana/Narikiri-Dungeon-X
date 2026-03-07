@@ -48,7 +48,7 @@ An alternate possibility for Dio.</EnglishText>
     <Entry>
       <PointerOffset>1232</PointerOffset>
       <JapaneseText>剣豪</JapaneseText>
-      <EnglishText>Swordsman</EnglishText>
+      <EnglishText>Blademaster</EnglishText>
       <Notes/>
       <Id>6</Id>
       <Status>Editing</Status>
@@ -66,10 +66,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>1640</PointerOffset>
       <JapaneseText>オロチ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Orochi</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1644</PointerOffset>
@@ -83,10 +83,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>2048</PointerOffset>
       <JapaneseText>侍</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Samurai</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2052</PointerOffset>
@@ -100,10 +100,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>2456</PointerOffset>
       <JapaneseText>剣帝</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sword Emperor</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2460</PointerOffset>
@@ -117,10 +117,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>2864</PointerOffset>
       <JapaneseText>剣士</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Swordsman</EnglishText>
       <Notes/>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2868</PointerOffset>
@@ -134,10 +134,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>3272</PointerOffset>
       <JapaneseText>黄金剣士</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Golden Swordsman</EnglishText>
       <Notes/>
       <Id>16</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3276</PointerOffset>
@@ -151,10 +151,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>3680</PointerOffset>
       <JapaneseText>白銀剣士</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Silver Swordsman</EnglishText>
       <Notes/>
       <Id>18</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3684</PointerOffset>
@@ -168,10 +168,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>4088</PointerOffset>
       <JapaneseText>忍</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shinobi</EnglishText>
       <Notes/>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4092</PointerOffset>
@@ -185,10 +185,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>4496</PointerOffset>
       <JapaneseText>隠密</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hidden Shadow</EnglishText>
       <Notes/>
       <Id>22</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4500</PointerOffset>
@@ -202,10 +202,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>4904</PointerOffset>
       <JapaneseText>忍頭</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ninja Lord</EnglishText>
       <Notes/>
       <Id>24</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4908</PointerOffset>
@@ -219,10 +219,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>5312</PointerOffset>
       <JapaneseText>シーフ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thief</EnglishText>
       <Notes/>
       <Id>26</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5316</PointerOffset>
@@ -236,10 +236,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>5720</PointerOffset>
       <JapaneseText>トリックスター</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Trickster</EnglishText>
       <Notes/>
       <Id>28</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5724</PointerOffset>
@@ -253,10 +253,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>6128</PointerOffset>
       <JapaneseText>アサシン</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Assassin</EnglishText>
+      <Notes>Maxle - Personally would translate it to something like Masked Thief, but the katakana translates to Masquerade</Notes>
       <Id>30</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6132</PointerOffset>
@@ -270,10 +270,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>6536</PointerOffset>
       <JapaneseText>マスカレイド</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Masquerade</EnglishText>
+      <Notes>Maxle - Personally would translate it to something like Masked Thief, but the katakana translates to Masquerade</Notes>
       <Id>32</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6540</PointerOffset>
@@ -287,10 +287,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>6944</PointerOffset>
       <JapaneseText>ストライカー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Striker</EnglishText>
       <Notes/>
       <Id>34</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6948</PointerOffset>
@@ -304,10 +304,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>7352</PointerOffset>
       <JapaneseText>ハンター</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hunter</EnglishText>
       <Notes/>
       <Id>36</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7356</PointerOffset>
@@ -321,10 +321,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>7760</PointerOffset>
       <JapaneseText>ホークアイ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hawkeye</EnglishText>
       <Notes/>
       <Id>38</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7764</PointerOffset>
@@ -338,10 +338,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>8168</PointerOffset>
       <JapaneseText>闘弓士</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Attack Archer</EnglishText>
+      <Notes>May need to come up with a better name for this</Notes>
       <Id>40</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8172</PointerOffset>
@@ -355,10 +355,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>8576</PointerOffset>
       <JapaneseText>スナイパー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sniper</EnglishText>
       <Notes/>
       <Id>42</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8580</PointerOffset>
@@ -372,10 +372,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>8984</PointerOffset>
       <JapaneseText>ガンナー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gunner</EnglishText>
       <Notes/>
       <Id>44</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8988</PointerOffset>
@@ -389,10 +389,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>9392</PointerOffset>
       <JapaneseText>シューター</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shooter</EnglishText>
       <Notes/>
       <Id>46</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9396</PointerOffset>
@@ -406,10 +406,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>9800</PointerOffset>
       <JapaneseText>調教士</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Beast Master</EnglishText>
       <Notes/>
       <Id>48</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9804</PointerOffset>
@@ -423,10 +423,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>10208</PointerOffset>
       <JapaneseText>魔物使い</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Monster Tamer</EnglishText>
       <Notes/>
       <Id>50</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10212</PointerOffset>
@@ -440,10 +440,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>10616</PointerOffset>
       <JapaneseText>魔操士</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Demon Manipulator</EnglishText>
       <Notes/>
       <Id>52</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10620</PointerOffset>
@@ -457,10 +457,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>11024</PointerOffset>
       <JapaneseText>精霊使い</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Spirit Master</EnglishText>
       <Notes/>
       <Id>54</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11028</PointerOffset>
@@ -474,10 +474,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>11432</PointerOffset>
       <JapaneseText>精霊術士</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Spirit Magician</EnglishText>
       <Notes/>
       <Id>56</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11436</PointerOffset>
@@ -491,10 +491,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>11840</PointerOffset>
       <JapaneseText>召喚士</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Summoner</EnglishText>
       <Notes/>
       <Id>58</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11844</PointerOffset>
@@ -508,10 +508,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>12248</PointerOffset>
       <JapaneseText>降魔術士</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fallen Mage</EnglishText>
       <Notes/>
       <Id>60</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12252</PointerOffset>
@@ -525,10 +525,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>12656</PointerOffset>
       <JapaneseText>斧戦士</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Axe Warrior</EnglishText>
       <Notes/>
       <Id>62</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12660</PointerOffset>
@@ -542,10 +542,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>13064</PointerOffset>
       <JapaneseText>ショットランサー</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Shot Lancer</EnglishText>
+      <Notes>I believe this may actually be a "Fire Lancer" - a spear that with projectiles attached to it.</Notes>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13068</PointerOffset>
@@ -559,10 +559,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>13472</PointerOffset>
       <JapaneseText>重戦士</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heavy Warrior</EnglishText>
       <Notes/>
       <Id>66</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13476</PointerOffset>
@@ -576,10 +576,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>13880</PointerOffset>
       <JapaneseText>破壊戦士</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Barbarian</EnglishText>
       <Notes/>
       <Id>68</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13884</PointerOffset>
@@ -593,10 +593,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>14288</PointerOffset>
       <JapaneseText>ランサー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lancer</EnglishText>
       <Notes/>
       <Id>70</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14292</PointerOffset>
@@ -610,10 +610,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>14696</PointerOffset>
       <JapaneseText>ドラグーン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dragoon</EnglishText>
       <Notes/>
       <Id>72</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14700</PointerOffset>
@@ -627,10 +627,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>15104</PointerOffset>
       <JapaneseText>ファランクス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Phalanx</EnglishText>
       <Notes/>
       <Id>74</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>15108</PointerOffset>
@@ -644,10 +644,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>15512</PointerOffset>
       <JapaneseText>王子</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Prince</EnglishText>
       <Notes/>
       <Id>76</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>15516</PointerOffset>
@@ -661,10 +661,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>15920</PointerOffset>
       <JapaneseText>カイト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kite</EnglishText>
       <Notes/>
       <Id>78</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>15924</PointerOffset>
@@ -678,10 +678,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>16328</PointerOffset>
       <JapaneseText>アスベル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Asbel</EnglishText>
       <Notes/>
       <Id>80</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16332</PointerOffset>
@@ -695,10 +695,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>16736,33872</PointerOffset>
       <JapaneseText>かに</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Crab</EnglishText>
       <Notes/>
       <Id>82</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16740</PointerOffset>
@@ -712,10 +712,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>17144,34280</PointerOffset>
       <JapaneseText>バキュラ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bacura</EnglishText>
       <Notes/>
       <Id>84</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17148</PointerOffset>
@@ -729,10 +729,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>17960</PointerOffset>
       <JapaneseText>メルティア</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Meltia</EnglishText>
       <Notes/>
       <Id>86</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17964</PointerOffset>
@@ -1341,10 +1341,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>32648</PointerOffset>
       <JapaneseText>ワンダーモモ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wonder Momo</EnglishText>
       <Notes/>
       <Id>158</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32652</PointerOffset>
@@ -1375,10 +1375,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>33464</PointerOffset>
       <JapaneseText>春香</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Haruka</EnglishText>
       <Notes/>
       <Id>162</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>33468</PointerOffset>
@@ -1498,10 +1498,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>53000</PointerOffset>
       <JapaneseText>ワンダーモモ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wonder Momo</EnglishText>
       <Notes/>
       <Id>176</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53004</PointerOffset>
@@ -1515,10 +1515,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>53552</PointerOffset>
       <JapaneseText>飛鳥</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Asuka</EnglishText>
       <Notes/>
       <Id>178</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53556</PointerOffset>
@@ -1532,10 +1532,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>54104</PointerOffset>
       <JapaneseText>春香</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Haruka</EnglishText>
       <Notes/>
       <Id>180</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54108</PointerOffset>
@@ -1549,10 +1549,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>54656</PointerOffset>
       <JapaneseText>かに</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Crab</EnglishText>
       <Notes/>
       <Id>182</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54660</PointerOffset>
@@ -1566,10 +1566,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
     <Entry>
       <PointerOffset>55208</PointerOffset>
       <JapaneseText>バキュラ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bacura</EnglishText>
       <Notes/>
       <Id>184</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55212</PointerOffset>

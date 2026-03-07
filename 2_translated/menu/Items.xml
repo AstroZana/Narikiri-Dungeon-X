@@ -14751,7 +14751,7 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>50156</PointerOffset>
       <JapaneseText>剣豪</JapaneseText>
-      <EnglishText>Skilled Swordsman</EnglishText>
+      <EnglishText>Blademaster</EnglishText>
       <Notes/>
       <Id>3984</Id>
       <Status>Editing</Status>
@@ -15119,7 +15119,7 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>52004</PointerOffset>
       <JapaneseText>魔物使い</JapaneseText>
-      <EnglishText>Hell Master</EnglishText>
+      <EnglishText>Monster Tamer</EnglishText>
       <Notes/>
       <Id>4030</Id>
       <Status>Editing</Status>
@@ -15279,7 +15279,7 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>52760</PointerOffset>
       <JapaneseText>破壊戦士</JapaneseText>
-      <EnglishText>Depraved Warrior</EnglishText>
+      <EnglishText>Barbarian</EnglishText>
       <Notes/>
       <Id>4050</Id>
       <Status>Editing</Status>
