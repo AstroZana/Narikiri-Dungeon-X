@@ -14775,10 +14775,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>56264,52064,51224,56600,50972,53744,54164,54668,51896,50300</PointerOffset>
       <JapaneseText>防御属性『闇』（耐性：物　弱点：光）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Dark (Resist: Physical, Weak: Light)</EnglishText>
       <Notes/>
       <Id>3987</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50304</PointerOffset>

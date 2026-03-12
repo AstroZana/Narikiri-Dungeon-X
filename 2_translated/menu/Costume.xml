@@ -75,10 +75,11 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
       <PointerOffset>1644</PointerOffset>
       <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
 攻撃に特化し、神速の抜刀術で敵を斬り裂くコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Dark (Resist: Physical, Weak: Light)
+An offense-based costume made to slash foes with lightning-quick artes.</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2048</PointerOffset>
@@ -92,10 +93,11 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
       <PointerOffset>2052</PointerOffset>
       <JapaneseText>防御属性『火』（耐性：地　弱点：水）
 刀を使った強力な一撃が魅力のコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Fire (Resist: Earth, Weak: Water)
+A costume that features powerful slash artes as its main appeal.</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2456</PointerOffset>
@@ -109,10 +111,11 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
       <PointerOffset>2460</PointerOffset>
       <JapaneseText>防御属性『物』（耐性：光　弱点：闇）
 刀を極め、様々な特技を使いこなす強力なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Physical (Resist: Light, Weak: Dark)
+A costume that excels in swordsmanship and uses various artes.</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2864</PointerOffset>
@@ -126,10 +129,11 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
       <PointerOffset>2868</PointerOffset>
       <JapaneseText>防御属性『水』（耐性：火　弱点：雷）
 剣を使った空中での連続攻撃が得意なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Water (Resist: Fire, Weak: Lightning)
+A costume specializing in sword-based air combos.</EnglishText>
       <Notes/>
       <Id>15</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3272</PointerOffset>
@@ -143,10 +147,11 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
       <PointerOffset>3276</PointerOffset>
       <JapaneseText>防御属性『光』（耐性：闇　弱点：物）
 強力な剣技を使いこなし、圧倒的な連続攻撃で戦うコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Light (Resist: Dark, Weak: Physical)
+A costume that uses formidable sword artes and overwhelming combos.</EnglishText>
       <Notes/>
       <Id>17</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3680</PointerOffset>
@@ -160,10 +165,11 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
       <PointerOffset>3684</PointerOffset>
       <JapaneseText>防御属性『雷』（耐性：水　弱点：風）
 地上・空中問わず剣を使っての連続攻撃に優れたコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Lightning (Resist: Water, Weak: Wind)
+A costume that excels in stringing sword combos both on the ground and in the air.</EnglishText>
       <Notes/>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4088</PointerOffset>
@@ -177,10 +183,11 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
       <PointerOffset>4092</PointerOffset>
       <JapaneseText>防御属性『物』（耐性：光　弱点：闇）
 特殊な攻撃である『忍術』を使用する事ができるコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Physical (Resist: Light, Weak: Dark)
+A costume that enables the use of Ninjutsu.</EnglishText>
       <Notes/>
       <Id>21</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4496</PointerOffset>
@@ -194,10 +201,11 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
       <PointerOffset>4500</PointerOffset>
       <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
 素早い動きで、地上・空中の至る所で敵を翻弄するコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Wind (Resist: Lightning, Weak: Ground)
+A costume that outmaneuvers any foe with its swift movements.</EnglishText>
       <Notes/>
       <Id>23</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4904</PointerOffset>
@@ -211,10 +219,10 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
       <PointerOffset>4908</PointerOffset>
       <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
 脅威のスピードと様々な忍術で敵を圧倒する強力なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Dark (Resist: Physical, Weak: Light)</EnglishText>
       <Notes/>
       <Id>25</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5312</PointerOffset>
@@ -262,10 +270,11 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
       <PointerOffset>6132</PointerOffset>
       <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
 影から影へ飛びすさり、相手の隙を突く攻撃が得意なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Dark (Resist: Physical, Weak: Light)
+A costume that excels at striking from the shadows to exploit the enemy's openings.</EnglishText>
       <Notes/>
       <Id>31</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6536</PointerOffset>
@@ -398,10 +407,11 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
       <PointerOffset>9396</PointerOffset>
       <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
 銃の扱いに慣れ、トリッキーな射撃で敵を翻弄できるコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Dark (Resist: Physical, Weak: Light)
+A costume used to wield guns and confuse foes with trick shots.</EnglishText>
       <Notes/>
       <Id>47</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9800</PointerOffset>
@@ -432,10 +442,11 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
       <PointerOffset>10212</PointerOffset>
       <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
 魔物を捕まえたり、召喚し戦わせることができるコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Dark (Resist: Physical, Weak: Light)
+A costume that can capture monsters and summon them for battle.</EnglishText>
       <Notes/>
       <Id>51</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10616</PointerOffset>
@@ -755,10 +766,11 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
       <PointerOffset>18372</PointerOffset>
       <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
 攻撃だけではなく、味方を守る事も得意とするコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Dark (Resist: Physical, Weak: Light)
+A costume that excels in offense and protecting your teammates.</EnglishText>
       <Notes/>
       <Id>89</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18776</PointerOffset>
@@ -840,10 +852,11 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
       <PointerOffset>20412</PointerOffset>
       <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
 剣を振りかざし、魔術も扱うことができるコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Dark (Resist: Physical, Weak: Light)
+A costume that wields both swords and magic.</EnglishText>
       <Notes/>
       <Id>99</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20816</PointerOffset>
@@ -942,10 +955,11 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
       <PointerOffset>22860</PointerOffset>
       <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
 上級の魔術・法術のみを修めた大火力コスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Dark (Resist: Physical, Weak: Light)
+A powerful costume that wields only advanced magic artes.</EnglishText>
       <Notes/>
       <Id>111</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>23264</PointerOffset>
@@ -1265,10 +1279,11 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
       <PointerOffset>30612</PointerOffset>
       <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
 大斧を振り回し、敵をまとめて倒すことに長けたコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Dark (Resist: Physical, Weak: Light)
+A costume that excels in knocking down multiple foes with an axe.</EnglishText>
       <Notes/>
       <Id>149</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31016</PointerOffset>
@@ -1333,10 +1348,11 @@ A costume made for quick movements and to string sword strikes.</EnglishText>
       <PointerOffset>32244</PointerOffset>
       <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
 重い鎧を身に纏い、強烈な突進力で敵を貫くコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Dark (Resist: Physical, Weak: Light)
+A costume clad in heavy armor with powerful ramming attacks.</EnglishText>
       <Notes/>
       <Id>157</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32648</PointerOffset>
