@@ -184,7 +184,7 @@ A costume that excels in stringing sword combos both on the ground and in the ai
       <JapaneseText>防御属性『物』（耐性：光　弱点：闇）
 特殊な攻撃である『忍術』を使用する事ができるコスチューム</JapaneseText>
       <EnglishText>Attribute: Physical (Resist: Light, Weak: Dark)
-A costume that enables the use of Ninjutsu.</EnglishText>
+A costume that enables the use of Ninja artes.</EnglishText>
       <Notes/>
       <Id>21</Id>
       <Status>Editing</Status>
@@ -290,10 +290,10 @@ A costume that excels at striking from the shadows to exploit the enemy's openin
       <PointerOffset>6540</PointerOffset>
       <JapaneseText>防御属性『火』（耐性：地　弱点：水）
 様々な罠と変幻自在の技で敵を攻撃する強力なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Fire (Resist: Earth, Weak: Water)</EnglishText>
       <Notes/>
       <Id>33</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6944</PointerOffset>
@@ -307,10 +307,10 @@ A costume that excels at striking from the shadows to exploit the enemy's openin
       <PointerOffset>6948</PointerOffset>
       <JapaneseText>防御属性『光』（耐性：闇　弱点：物）
 弓を使って遠くの敵を正確に攻撃することのできるコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Light (Resist: Dark, Weak: Physical)</EnglishText>
       <Notes/>
       <Id>35</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7352</PointerOffset>
@@ -360,10 +360,11 @@ A costume that keeps enemies at bay with its archery skills.</EnglishText>
       <PointerOffset>8172</PointerOffset>
       <JapaneseText>防御属性『物』（耐性：光　弱点：闇）
 遠距離攻撃に加え、接近戦でも戦う事ができるコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Physical (Resist: Light, Weak: Dark)
+A costume adept in both close and long range combat.</EnglishText>
       <Notes/>
       <Id>41</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8576</PointerOffset>
@@ -395,10 +396,10 @@ A costume that uses a sniper to inflict status aillments.</EnglishText>
       <PointerOffset>8988</PointerOffset>
       <JapaneseText>防御属性『火』（耐性：地　弱点：水）
 銃による遠距離からの連続射撃が得意なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Fire (Resist: Earth, Weak: Water)</EnglishText>
       <Notes/>
       <Id>45</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9392</PointerOffset>
@@ -502,10 +503,11 @@ A costume that allows one to commune with the spirits.</EnglishText>
       <PointerOffset>11436</PointerOffset>
       <JapaneseText>防御属性『物』（耐性：光　弱点：闇）
 精霊と契約し、一緒に戦うことができるコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Physical (Resist: Light, Weak: Dark)
+A costume that forms pacts with spirits to fight alongside them.</EnglishText>
       <Notes/>
       <Id>57</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11840</PointerOffset>
@@ -519,10 +521,11 @@ A costume that allows one to commune with the spirits.</EnglishText>
       <PointerOffset>11844</PointerOffset>
       <JapaneseText>防御属性『光』（耐性：闇　弱点：物）
 様々な精霊を自在に呼び出し、戦わせることができるコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Light (Resist: Dark, Weak: Physical)
+A costume capable of summoning various spirits to battle.</EnglishText>
       <Notes/>
       <Id>59</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12248</PointerOffset>
@@ -572,10 +575,11 @@ A costume with powerful capabilities that uses an axe as large as its wielder.</
       <PointerOffset>13068</PointerOffset>
       <JapaneseText>防御属性『光』（耐性：闇　弱点：物）
 槍を使った衝撃波で、遠距離攻撃も可能になったコスチューム</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Attribute: Light (Resist: Dark, Weak: Physical)
+A costume that uses long-range attacks with its spear.</EnglishText>
+      <Notes>Didn't mention about the "shockwaves" part</Notes>
       <Id>65</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13472</PointerOffset>
@@ -589,10 +593,10 @@ A costume with powerful capabilities that uses an axe as large as its wielder.</
       <PointerOffset>13476</PointerOffset>
       <JapaneseText>防御属性『火』（耐性：地　弱点：水）
 斧を振り回し、多数の敵を吹き飛ばせるコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Fire (Resist: Earth, Weak: Water)</EnglishText>
       <Notes/>
       <Id>67</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13880</PointerOffset>
@@ -624,10 +628,11 @@ A costume that shatters all in its path with overwhelming destruction.</EnglishT
       <PointerOffset>14292</PointerOffset>
       <JapaneseText>防御属性『物』（耐性：光　弱点：闇）
 槍のリーチを活かした、豊富な突き攻撃により戦うコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Physical (Resist: Light, Weak: Dark)
+A costume that leverages its spear's reach for thrusting attacks.</EnglishText>
       <Notes/>
       <Id>71</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14696</PointerOffset>
@@ -821,10 +826,11 @@ A costume specializing in relentless and nonstop sword strikes.</EnglishText>
       <PointerOffset>19188</PointerOffset>
       <JapaneseText>防御属性『光』（耐性：闇　弱点：物）
 多彩な攻撃技を持ち、自己能力も高められる神聖なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Light (Resist: Dark, Weak: Physical)
+A costume with a wide array of attacks and self-buffing artes.</EnglishText>
       <Notes/>
       <Id>93</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19592</PointerOffset>
@@ -892,10 +898,10 @@ A costume that wields both swords and magic.</EnglishText>
       <PointerOffset>20820</PointerOffset>
       <JapaneseText>防御属性『火』（耐性：地　弱点：水）
 剣と術をバランスよく扱い、あらゆる状況に対応できるコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Fire (Resist: Earth, Weak: Water)</EnglishText>
       <Notes/>
       <Id>101</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21224</PointerOffset>
@@ -927,10 +933,10 @@ A costume designed for learning the basics of magic.</EnglishText>
       <PointerOffset>21636</PointerOffset>
       <JapaneseText>防御属性『火』（耐性：地　弱点：水）
 強靭な魔力を誇り、上級魔術も扱えるようになったコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Fire (Resist: Earth, Weak: Water)</EnglishText>
       <Notes/>
       <Id>105</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22040</PointerOffset>
@@ -998,10 +1004,10 @@ A powerful costume that wields only advanced magic artes.</EnglishText>
       <PointerOffset>23268</PointerOffset>
       <JapaneseText>防御属性『火』（耐性：地　弱点：水）
 魔術を操り、法術も使用できるコスチューム </JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Fire (Resist: Earth, Weak: Water)</EnglishText>
       <Notes/>
       <Id>113</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>23672</PointerOffset>
@@ -1033,10 +1039,11 @@ A costume specializing in both offensive and support spells.</EnglishText>
       <PointerOffset>24084</PointerOffset>
       <JapaneseText>防御属性『光』（耐性：闇　弱点：物）
 科学の力を扱い、無機物を召喚できる異色なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Light (Resist: Dark, Weak: Physical)
+A costume that utilizes the power of science to summon inorganic matter.</EnglishText>
       <Notes/>
       <Id>117</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>24488</PointerOffset>
@@ -1086,10 +1093,11 @@ A costume specializing in leg attacks and grapples.</EnglishText>
       <PointerOffset>25308</PointerOffset>
       <JapaneseText>防御属性『物』（耐性：光　弱点：闇）
 打撃に加え、掴んだ敵を投げる攻撃が得意なコスチューム</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Attribute: Physical (Resist: Light, Weak: Dark)
+A costume that excels at physical strikes and grapples.</EnglishText>
+      <Notes>May need double check this translation on physical strikes.</Notes>
       <Id>123</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>25712</PointerOffset>
@@ -1121,10 +1129,11 @@ A costume that specializes in powerful punches and kicks.</EnglishText>
       <PointerOffset>26124</PointerOffset>
       <JapaneseText>防御属性『物』（耐性：光　弱点：闇）
 打撃技に加え、闘気による強力な遠距離攻撃も可能なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Physical (Resist: Light, Weak: Dark)
+A costume capable in melee and long-ranged strikes.</EnglishText>
       <Notes/>
       <Id>127</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>26528</PointerOffset>
@@ -1156,10 +1165,11 @@ A costume that uses powerful leg artes and throws.</EnglishText>
       <PointerOffset>26940</PointerOffset>
       <JapaneseText>防御属性『光』（耐性：闇　弱点：物）
 回復ならおまかせ！　回復補助に特化したコスチューム</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Attribute: Light (Resist: Dark, Weak: Physical)
+Leave the healing to her! A costume that excels in healing.</EnglishText>
+      <Notes>It's the one weird costume with a sentence before the description of the costume.</Notes>
       <Id>131</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>27344</PointerOffset>
@@ -1227,7 +1237,7 @@ A costume that supports allies by singing.</EnglishText>
       <JapaneseText>防御属性『雷』（耐性：水　弱点：風）
 攻撃・サポート・妨害と万能な行動が行える強力なコスチューム</JapaneseText>
       <EnglishText>Attribute: Lightning (Resist: Water, Weak: Wind)
-A costume capable in attack, support, and disruption.</EnglishText>
+A costume capable in attack, support, and debilitation.</EnglishText>
       <Notes>May need another word for "disruption".</Notes>
       <Id>139</Id>
       <Status>Editing</Status>
@@ -1262,10 +1272,11 @@ A costume designed to heal the wounded.</EnglishText>
       <PointerOffset>29388</PointerOffset>
       <JapaneseText>防御属性『光』（耐性：闇　弱点：物）
 武器による接近戦と、歌で敵の攻撃制御を行えるコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Light (Resist: Dark, Weak: Physical)
+A costume that debilitates foes by singing to open up opportunities for close combat.</EnglishText>
       <Notes/>
       <Id>143</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>29792</PointerOffset>
@@ -1297,10 +1308,10 @@ A costume that channels feral power into its axe to go on a ramage.</EnglishText
       <PointerOffset>30204</PointerOffset>
       <JapaneseText>防御属性『火』（耐性：地　弱点：水）
 獣の如き俊敏さと力で、大斧を自在に操る強力なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Fire (Resist: Earth, Weak: Water)</EnglishText>
       <Notes/>
       <Id>147</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>30608</PointerOffset>
@@ -1368,10 +1379,11 @@ A costume specializing in long-reach thrusting attacks.</EnglishText>
       <PointerOffset>31836</PointerOffset>
       <JapaneseText>防御属性『物』（耐性：光　弱点：闇）
 槍を華麗に振り回し、強力な連撃を出すことのできるコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Physical (Resist: Light, Weak: Dark)
+A costume adept in spearmanship and powerful combos.</EnglishText>
       <Notes/>
       <Id>155</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32240</PointerOffset>
@@ -1565,10 +1577,11 @@ Dress as the pink Bacura from "Xevious"! Its toughness is second to none!</Engli
       <PointerOffset>53004</PointerOffset>
       <JapaneseText>がんばりまーす！
 属性：無</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She'll do her best!
+Attribute: None</EnglishText>
       <Notes/>
       <Id>177</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53552</PointerOffset>
@@ -1583,7 +1596,7 @@ Dress as the pink Bacura from "Xevious"! Its toughness is second to none!</Engli
       <JapaneseText>鉄拳より参戦！　関西弁が炸裂！
 属性：無</JapaneseText>
       <EnglishText/>
-      <Notes/>
+      <Notes>What are these alternate descriptions for? Placeholders?</Notes>
       <Id>179</Id>
       <Status>To Do</Status>
     </Entry>
