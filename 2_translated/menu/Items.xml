@@ -766,10 +766,10 @@ The enemy is then recorded.</EnglishText>
     <Entry>
       <PointerOffset>2528</PointerOffset>
       <JapaneseText>セージ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sage</EnglishText>
       <Notes/>
       <Id>2368</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2588</PointerOffset>
@@ -782,8 +782,7 @@ The enemy is then recorded.</EnglishText>
     <Entry>
       <PointerOffset>2592</PointerOffset>
       <JapaneseText>滋養強壮の効果がある薬草</JapaneseText>
-      <EnglishText>A medicinal herb
-with strong nutrients.</EnglishText>
+      <EnglishText>A medicinal herb with strong nutrients.</EnglishText>
       <Notes/>
       <Id>2370</Id>
       <Status>Editing</Status>
