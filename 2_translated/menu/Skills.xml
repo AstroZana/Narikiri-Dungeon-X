@@ -693,7 +693,7 @@ toward an aerial enemy.</EnglishText>
     <Entry>
       <PointerOffset>15852</PointerOffset>
       <JapaneseText>一枚のスペクタクルズで全ての敵を調べることが出来る</JapaneseText>
-      <EnglishText>Examines all enemies with a single Spectacles.</EnglishText>
+      <EnglishText>Examines all enemies with a single Magic Lens.</EnglishText>
       <Notes/>
       <Id>4701</Id>
       <Status>Editing</Status>
@@ -2389,10 +2389,10 @@ of inflicting Blindness.</EnglishText>
     <Entry>
       <PointerOffset>19968</PointerOffset>
       <JapaneseText>デモノイドコンカー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Conquer Demonoid</EnglishText>
       <Notes/>
       <Id>4906</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19972</PointerOffset>
@@ -2550,34 +2550,34 @@ of inflicting Blindness.</EnglishText>
       <PointerOffset>20412,20452,20372</PointerOffset>
       <JapaneseText>戦闘終了時に１０％の確率で取得ＥＸＰが１０％増加する
 （スキル効果はパーティで１つのみ発揮）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>10% chance to increase EXP gained by 10% at the end of battle. (Only one instance of the skill will be applied for the party).</EnglishText>
       <Notes/>
       <Id>4926</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20408,7808,20368,20448</PointerOffset>
       <JapaneseText>ハピネスシングＥＸＰ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Happiness EXP</EnglishText>
       <Notes/>
       <Id>4927</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20572,20492,20532</PointerOffset>
       <JapaneseText>戦闘終了時に１０％の確率で取得ガルドが１０％増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>10% chance to increase Gald gained by 10% at the end of battle.</EnglishText>
       <Notes/>
       <Id>4928</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7728,20488,20568,20528,20608</PointerOffset>
       <JapaneseText>ハピネスシングＧＬＤ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Happiness Gald</EnglishText>
       <Notes/>
       <Id>4929</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20612</PointerOffset>
@@ -2590,51 +2590,51 @@ of inflicting Blindness.</EnglishText>
     <Entry>
       <PointerOffset>20728,20688,7768,20648,20768</PointerOffset>
       <JapaneseText>ハピネスシングＣＰ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Happiness CP</EnglishText>
       <Notes/>
       <Id>4931</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20652,20692,20732,20772</PointerOffset>
       <JapaneseText>戦闘終了時に１０％の確率で取得ＣＰが１０％増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>10% chance to increase CP gained by 10% at the end of battle.</EnglishText>
       <Notes/>
       <Id>4932</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21048,20808,21008,20888,20928,20968,20848</PointerOffset>
       <JapaneseText>クリティカルブレイク</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Critical Break</EnglishText>
       <Notes/>
       <Id>4933</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20932,20812,20892,20852,20972,21012,21052</PointerOffset>
       <JapaneseText>ガードしている敵を攻撃した際にガードブレイクさせやすくなる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases the chance of breaking an enemy's guard.</EnglishText>
       <Notes/>
       <Id>4934</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21528,21568,21488,21088,21368,21408,21448,21168</PointerOffset>
       <JapaneseText>グッドジョブ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Good Job</EnglishText>
       <Notes/>
       <Id>4935</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>24652,24572,24612,21212</PointerOffset>
       <JapaneseText>味方のガード時のダメージが１０％減少、自分は１０％増加。
 複数持つキャラがいる時パーティトップに近い一人が効果を発動</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reduces damage taken by allies by 10% while guarding and increases damage taken by 10%. If multiple characters have the skill equipped, the party member at the top will activate the skill.</EnglishText>
       <Notes/>
       <Id>4936</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21328,21288,21248</PointerOffset>
@@ -2672,10 +2672,10 @@ of inflicting Blindness.</EnglishText>
     <Entry>
       <PointerOffset>21688,21648,21608,21768,21808,21728</PointerOffset>
       <JapaneseText>ラッキーアイテム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lucky Charm</EnglishText>
       <Notes/>
       <Id>4941</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21132,21892,22012,22052,21852,22132,22172,22092,21972,21932</PointerOffset>
@@ -2688,179 +2688,178 @@ of inflicting Blindness.</EnglishText>
     <Entry>
       <PointerOffset>22008,21888,22048,21128,22128,22168,21848,21928,22088,21968</PointerOffset>
       <JapaneseText>ウェルガード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Solid Guard</EnglishText>
       <Notes/>
       <Id>4943</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22408,22368,22448,22488,22208,22328,22528,22248,22288</PointerOffset>
       <JapaneseText>イミュニティ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Immunity</EnglishText>
       <Notes/>
       <Id>4944</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22332,22532,22492,22212,22452,22412,22372,22252,22292</PointerOffset>
       <JapaneseText>あらゆる状態異常になる確率が１０％減少する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Decreases the chance of receiving a status ailment by 10%.</EnglishText>
       <Notes/>
       <Id>4945</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22848,22648,22768,22688,22608,22568,22808,22728</PointerOffset>
       <JapaneseText>クラッシュステップ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Assault Step</EnglishText>
+      <Notes>Literally Crash Step, but same function as Assault Step in Xillia</Notes>
       <Id>4946</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22692,22772,22812,22732,22572,22652,22612,22852</PointerOffset>
       <JapaneseText>前進ステップ系行動に攻撃判定が付く。
 与えるダメージは１固定。敵をガードブレイクさせやすくなる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Forward steps will deal 1 damage. Using it makes breaking an enemy's guard easier.</EnglishText>
       <Notes/>
       <Id>4947</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>23288,23168,23208,23048,23008,23248,23128,23088,22968,22928,22888</PointerOffset>
       <JapaneseText>スタンディングガード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Standing Guard</EnglishText>
       <Notes/>
       <Id>4948</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22892,23012,23252,23212,23132,23172,23092,22932,22972,23292,23052</PointerOffset>
       <JapaneseText>起き上がり後に＋１秒間鋼体の効果を得る</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Iron Stance will be applied for 1 second after standing back up from a knockdown.</EnglishText>
+      <Notes>The skill description doesn't include knockdown, but I wanted to make it clearer.</Notes>
       <Id>4949</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>23492,23532,23612,23332,23412,23652,23452,23572,23372</PointerOffset>
       <JapaneseText>物攻からのダメージが１０％の確率で１になる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>10% to reduce the damage of a physical attack to 1.</EnglishText>
       <Notes/>
       <Id>4950</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>23368,23448,23488,23568,23528,23408,23328,23648,23608</PointerOffset>
       <JapaneseText>パリィ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Shield</EnglishText>
+      <Notes>It's "parry", but there's a vesperia equivalent skill with a different name</Notes>
       <Id>4951</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>24008,24048,23968,23888,23928,23768,23688,23848,23728,23808</PointerOffset>
       <JapaneseText>マジックパリィ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Magic Shield</EnglishText>
+      <Notes>It's "parry", but there's a vesperia equivalent skill with a different name</Notes>
       <Id>4952</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>23892,24052,23772,23692,23972,23732,23812,23852,24012,23932</PointerOffset>
       <JapaneseText>術攻からのダメージが１０％の確率で１になる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>10% to reduce the damage of a magical attack to 1.</EnglishText>
       <Notes/>
       <Id>4953</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>24332,24212,24252,24172,24132,24292,24092</PointerOffset>
       <JapaneseText>バックステップ中に攻撃を受けても仰け反らなくなる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Avoid staggering when hit during a backstep.</EnglishText>
       <Notes/>
       <Id>4954</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>24208,24328,24168,24088,24248,24128,24288</PointerOffset>
       <JapaneseText>ステップアウェイ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Step Away</EnglishText>
+      <Notes>Same as Vesperia</Notes>
       <Id>4955</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>24528,24448,24488,24368,24408</PointerOffset>
       <JapaneseText>Ａアーマー</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>A-Armor</EnglishText>
+      <Notes>I suspect it's short for "Aerial Armor" based on its effect.</Notes>
       <Id>4956</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>24492,24452,24532,24372,24412</PointerOffset>
       <JapaneseText>ジャンプ中に攻撃を受けても仰け反らなくなる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Avoid staggering when hit during a jump.</EnglishText>
       <Notes/>
       <Id>4957</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>24608,24568,21208,24648</PointerOffset>
       <JapaneseText>ガーディアン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Guardian</EnglishText>
       <Notes/>
       <Id>4958</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7852,24732,24972,25012,24852,24772,24892,25052,24812,24932,24692</PointerOffset>
       <JapaneseText>最後に受けたダメージの半分のＨＰを少しずつ回復する</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Gradually recover HP equal to half the amount of the last damage received.</EnglishText>
+      <Notes>Used Vesperia's description</Notes>
       <Id>4959</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>24728,24808,24768,24848,25048,7848,24968,25008,24688,24888,24928</PointerOffset>
       <JapaneseText>ライフリバース</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rebirth</EnglishText>
       <Notes/>
       <Id>4960</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>25088,25208,25248,25128,25168</PointerOffset>
       <JapaneseText>クリティカルリカバー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Critical Recover</EnglishText>
       <Notes/>
       <Id>4961</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>25252,25092,25132,25172,25212</PointerOffset>
       <JapaneseText>クリティカルダメージを与えた際に
 ＨＰが１〜５％ランダムで回復する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Recover 1-5% HP when inflicting a critical hit.</EnglishText>
       <Notes/>
       <Id>4962</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>25328,25368,25288</PointerOffset>
       <JapaneseText>ヒールサプライ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heal Supply</EnglishText>
       <Notes/>
       <Id>4963</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>25372,25332,25292</PointerOffset>
       <JapaneseText>治癒術で仲間を回復させた際に
 自身も１〜５％ランダムで回復する</JapaneseText>
-      <EnglishText>When healing others,
-your HP will recover in a random range of 1-5%.</EnglishText>
+      <EnglishText>Heal 1-5% HP when healing an ally.</EnglishText>
       <Notes/>
       <Id>4964</Id>
       <Status>Editing</Status>
@@ -2868,10 +2867,10 @@ your HP will recover in a random range of 1-5%.</EnglishText>
     <Entry>
       <PointerOffset>25408,25448,25608,25568,25528,25488</PointerOffset>
       <JapaneseText>サポートエターナル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eternal Support</EnglishText>
       <Notes/>
       <Id>4965</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>25572,25612,25492,25452,25412,25532</PointerOffset>
@@ -2960,18 +2959,18 @@ your HP will recover in a random range of 1-5%.</EnglishText>
     <Entry>
       <PointerOffset>26848,27008,27048,26888,26808,26968,26768,27088,26728,26928</PointerOffset>
       <JapaneseText>Ｂボディ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>B-Body</EnglishText>
       <Notes/>
       <Id>4976</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>27208,27168,27128,27248</PointerOffset>
       <JapaneseText>Ｂコンセントレート</JapaneseText>
-      <EnglishText/>
+      <EnglishText>B-Concentrate</EnglishText>
       <Notes/>
       <Id>4977</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>27132,27212,27172,27252</PointerOffset>
@@ -3186,10 +3185,10 @@ your HP will recover in a random range of 1-5%.</EnglishText>
     <Entry>
       <PointerOffset>31248,31288,31208,31168</PointerOffset>
       <JapaneseText>デモンズコンカー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Conquer Demon</EnglishText>
       <Notes/>
       <Id>5004</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31212,31172,31292,31252</PointerOffset>
@@ -3210,10 +3209,10 @@ your HP will recover in a random range of 1-5%.</EnglishText>
     <Entry>
       <PointerOffset>31368,31328,31408</PointerOffset>
       <JapaneseText>アニマルコンカー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Conquer Beast</EnglishText>
       <Notes/>
       <Id>5007</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31532,31452,31492</PointerOffset>
