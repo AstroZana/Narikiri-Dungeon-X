@@ -2876,85 +2876,85 @@ of inflicting Blindness.</EnglishText>
       <PointerOffset>25572,25612,25492,25452,25412,25532</PointerOffset>
       <JapaneseText>自分の使った状態変化の効果時間が１０％の確率で
 戦闘が終了するまで続く</JapaneseText>
-      <EnglishText/>
+      <EnglishText>10% chance for the effects of support magic to last for the remaining duration of the battle.</EnglishText>
       <Notes/>
       <Id>4966</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>25688,25648</PointerOffset>
       <JapaneseText>ヒーリングアーツ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Healing Artes</EnglishText>
       <Notes/>
       <Id>4967</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>25652,25692</PointerOffset>
       <JapaneseText>法術を使用した際に１０％の確率でＥＢＧを全く消費しない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>10% chance to cast healing spells without consuming EBG.</EnglishText>
       <Notes/>
       <Id>4968</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>26092,25812,25892,25772,26052,25732,25932,26012,25852,25972</PointerOffset>
       <JapaneseText>ダウンした際に最大ＥＢＧの５〜１５％回復する</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Restores 5-15% of Max EBG when knocked down.</EnglishText>
+      <Notes>Do we use "Max EBG" or is there another therm for it?</Notes>
       <Id>4969</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>25768,25808,25728,25848,25968,26048,25928,25888,26008,26088</PointerOffset>
       <JapaneseText>ルーズレスソウル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lucky Soul</EnglishText>
       <Notes/>
       <Id>4970</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>26168,26408,26368,26288,26128,26208,26248,26328</PointerOffset>
       <JapaneseText>スピリットアブソート</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Spirit Absorb</EnglishText>
       <Notes/>
       <Id>4971</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>26292,26252,26212,26172,26372,26132,26332,26412</PointerOffset>
       <JapaneseText>術ダメージを受けた際に１０％の確率で自分のＥＢＧが回復する。
 ＥＢＧの回復量は受けた術のＥＢＧ消費量となる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>10% chance to recover the same amount of EBG used to cast a spell when hit by a spell attack.</EnglishText>
       <Notes/>
       <Id>4972</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>26612,26492,26532,26692,26652,26572,26452</PointerOffset>
       <JapaneseText>戦闘不能から復活した際に
 どんな復活手段であってもＨＰが完全回復する</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Recover full HP when revived by any method.</EnglishText>
+      <Notes>Same effect as HP Surge</Notes>
       <Id>4973</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>26648,26528,26488,26448,26608,26688,26568</PointerOffset>
       <JapaneseText>ホーリィソウル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Holy Soul</EnglishText>
       <Notes/>
       <Id>4974</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>27012,26732,26892,27052,26852,26972,26932,26772,27092,26812</PointerOffset>
       <JapaneseText>オーバーブレイブ中に攻撃を受けても
 ５０％の確率で仰け反らなくなる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>50% chance of not staggering when hit while in Overbrave.</EnglishText>
       <Notes/>
       <Id>4975</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>26848,27008,27048,26888,26808,26968,26768,27088,26728,26928</PointerOffset>
@@ -2975,84 +2975,84 @@ of inflicting Blindness.</EnglishText>
     <Entry>
       <PointerOffset>27132,27212,27172,27252</PointerOffset>
       <JapaneseText>オーバーブレイブ中に気絶状態にならなくなる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Cannot be knocked out while in Overbrave.</EnglishText>
       <Notes/>
       <Id>4978</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>27408,27328,27488,27448,27288,27368</PointerOffset>
       <JapaneseText>エンドラッキー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lucky End</EnglishText>
       <Notes/>
       <Id>4979</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>27492,27332,27292,27452,27372,27412</PointerOffset>
       <JapaneseText>術発動時に３０％の確率で発動後の硬直時間が無くなる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>30% chance to allow movement right after casting a spell.</EnglishText>
       <Notes/>
       <Id>4980</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>27572,27532</PointerOffset>
       <JapaneseText>詠唱が完了してもボタンを押し続けることで、
 ＥＢＧが増加する。２倍以上のＥＢＧを溜められない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hold down the arte button after completing a spell cast to increase EBG. More than double EBG cannot be accumulated.</EnglishText>
       <Notes/>
       <Id>4981</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>27692,27732,27652,27612</PointerOffset>
       <JapaneseText>詠唱が完了してもボタンを押し続けることで、
 術性能をアップする。２倍以上のＥＢＧを溜められない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hold down the arte button after completing a spell cast to boost the spell's damage. More than double EBG cannot be accumulated.</EnglishText>
       <Notes/>
       <Id>4982</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>27608,27568,27728,27528,27648,27688</PointerOffset>
       <JapaneseText>エクステンドスペル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Extend Spell</EnglishText>
       <Notes/>
       <Id>4983</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>27972,27772,27932,27852,27812,28012,27892</PointerOffset>
       <JapaneseText>詠唱中に攻撃を受けても３０％の確率で仰け反らなくなる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>30% chance of not being staggered while casting.</EnglishText>
       <Notes/>
       <Id>4984</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>27768,27848,28008,27888,27808,27928,27968</PointerOffset>
       <JapaneseText>ガーディングキャスト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Guarding Cast</EnglishText>
       <Notes/>
       <Id>4985</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>28092,28172,28212,28132,28052</PointerOffset>
       <JapaneseText>武器を使っての攻撃に３％の確率で熱毒効果が付与される</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attacks dealt have a 3% chance of inflicting poison.</EnglishText>
       <Notes/>
       <Id>4986</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>28088,28048,28208,28168,28128</PointerOffset>
       <JapaneseText>熱毒効果武器</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Poison Attack</EnglishText>
+      <Notes>maybe poison weapon as an alternative?</Notes>
       <Id>4987</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>28292,28572,28252,28532,28452,28412,28372,28492,28332</PointerOffset>
