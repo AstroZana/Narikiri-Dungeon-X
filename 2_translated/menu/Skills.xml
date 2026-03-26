@@ -1443,9 +1443,9 @@ Decreases elemental damage by 20%.</EnglishText>
       <PointerOffset>17612</PointerOffset>
       <JapaneseText>火属性攻撃のダメージを３０％の確率で無効化する</JapaneseText>
       <EnglishText>Nullifies Fire element damage with a 30% chance.</EnglishText>
-      <Notes/>
+      <Notes>May rewrite to: 30% chance to nullify Fire elemental/attribute damage.</Notes>
       <Id>4789</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>17648</PointerOffset>
@@ -3172,39 +3172,39 @@ of inflicting Blindness.</EnglishText>
       <EnglishText>Conquer Sky</EnglishText>
       <Notes/>
       <Id>5002</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>31052,31092,31132</PointerOffset>
       <JapaneseText>空の敵に対して物理ダメージが１.５倍になる</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Increases physical damage dealt to flying-type enemies by 1.5x.</EnglishText>
+      <Notes>Not sure if this is just for flying enemies; my guess is that it's for the monster type that is considered "flying". Is it also only physical damage?</Notes>
       <Id>5003</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>31248,31288,31208,31168</PointerOffset>
       <JapaneseText>デモンズコンカー</JapaneseText>
       <EnglishText>Conquer Demon</EnglishText>
-      <Notes/>
+      <Notes>There's another skill similar to this for demonoids; I wonder if they're different types. Confirm with the NDX guide and Kevan</Notes>
       <Id>5004</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>31212,31172,31292,31252</PointerOffset>
       <JapaneseText>悪魔系に対して物理ダメージが１.５倍になる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases physical damage dealt to demon-type enemies by 1.5x.</EnglishText>
       <Notes/>
       <Id>5005</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>31412,31332,31372</PointerOffset>
       <JapaneseText>「獣」に対して物理ダメージが１.５倍になる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases physical damage dealt to beast-type enemies by 1.5x.</EnglishText>
       <Notes/>
       <Id>5006</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>31368,31328,31408</PointerOffset>
@@ -3212,90 +3212,87 @@ of inflicting Blindness.</EnglishText>
       <EnglishText>Conquer Beast</EnglishText>
       <Notes/>
       <Id>5007</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>31532,31452,31492</PointerOffset>
       <JapaneseText>「昆虫類」に対して物理ダメージが１.５倍になる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases physical damage dealt to insect-type enemies by 1.5x.</EnglishText>
       <Notes/>
       <Id>5008</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>31448,31488,31528</PointerOffset>
       <JapaneseText>インセクトコンカー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Conquer Insect</EnglishText>
       <Notes/>
       <Id>5009</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>31608,31568</PointerOffset>
       <JapaneseText>コンポーズコンカー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Compuer Composite</EnglishText>
       <Notes/>
       <Id>5010</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>31612,31572</PointerOffset>
       <JapaneseText>「合成生物」に対して物理ダメージが１.５倍になる</JapaneseText>
-      <EnglishText>Increases damage dealt to
-composition enemies by 1.5x.</EnglishText>
+      <EnglishText>Increases damage dealt to composition-type enemies by 1.5x.</EnglishText>
       <Notes/>
       <Id>5011</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>31692,31652</PointerOffset>
       <JapaneseText>「植物」に対して物理ダメージが１.５倍になる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases physical damage dealt to plant-type enemies by 1.5x.</EnglishText>
       <Notes/>
       <Id>5012</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>31648,31688</PointerOffset>
       <JapaneseText>プラントコンカー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Conquer Plant</EnglishText>
       <Notes/>
       <Id>5013</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>31728,31768</PointerOffset>
       <JapaneseText>アクアコンカー</JapaneseText>
       <EnglishText>Conquer Aqua</EnglishText>
-      <Notes/>
+      <Notes>Need to confirm name of monster type is consistent</Notes>
       <Id>5014</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>31732,31772</PointerOffset>
       <JapaneseText>「水棲生物」に対して物理ダメージが１.５倍になる</JapaneseText>
-      <EnglishText>Increases damage dealt to
-aquatic enemies by 1.5x.</EnglishText>
+      <EnglishText>Increases physical damage dealt to aquatic-type enemies by 1.5x.</EnglishText>
       <Notes/>
       <Id>5015</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>31808,31848</PointerOffset>
       <JapaneseText>ヒューマンコンカー</JapaneseText>
-      <EnglishText>Conquer Humans</EnglishText>
-      <Notes/>
+      <EnglishText>Conquer Humanoid</EnglishText>
+      <Notes>Would it be Human or Humanoid?</Notes>
       <Id>5016</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>31812,31852</PointerOffset>
       <JapaneseText>「人型」に対して物理ダメージが１.５倍になる</JapaneseText>
-      <EnglishText>Increases damage dealt to
-human enemies by 1.5x.</EnglishText>
+      <EnglishText>Increases damage dealt to humanoid-type enemies by 1.5x.</EnglishText>
       <Notes/>
       <Id>5017</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>31928,31888</PointerOffset>
@@ -3303,32 +3300,31 @@ human enemies by 1.5x.</EnglishText>
       <EnglishText>Conquer Slime</EnglishText>
       <Notes/>
       <Id>5018</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>31892,31932</PointerOffset>
       <JapaneseText>「不定形」に対して物理ダメージが１.５倍になる</JapaneseText>
-      <EnglishText>Increases damage dealt to
-slime enemies by 1.5x.</EnglishText>
+      <EnglishText>Increases physical damage dealt to slime-type enemies by 1.5x.</EnglishText>
       <Notes/>
       <Id>5019</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>31968,32048,32008</PointerOffset>
       <JapaneseText>ミネラルコンカー</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Conquer Mineral</EnglishText>
+      <Notes>Is it Mineral?</Notes>
       <Id>5020</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>31972,32012,32052</PointerOffset>
       <JapaneseText>「無機物」に対して物理ダメージが１.５倍になる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases physical damage dealt to mineral-type enemies by 1.5x.</EnglishText>
       <Notes/>
       <Id>5021</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>32088,32128</PointerOffset>
@@ -3336,15 +3332,15 @@ slime enemies by 1.5x.</EnglishText>
       <EnglishText>Conquer Dragons</EnglishText>
       <Notes/>
       <Id>5022</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>32092,32132</PointerOffset>
       <JapaneseText>「竜族」に対して物理ダメージが１.５倍になる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases damage dealt to dragon-type enemies by 1.5x.</EnglishText>
       <Notes/>
       <Id>5023</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>32168</PointerOffset>
@@ -3373,10 +3369,10 @@ slime enemies by 1.5x.</EnglishText>
     <Entry>
       <PointerOffset>32252,32212</PointerOffset>
       <JapaneseText>術技によるＥＢＧ消費量を１０％軽減する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reduces EBG consumption of artes by 10%.</EnglishText>
       <Notes/>
       <Id>5027</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32248</PointerOffset>
