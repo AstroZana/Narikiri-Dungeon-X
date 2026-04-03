@@ -5620,7 +5620,7 @@ It utilizes the latest technology to harness the power of wind.</EnglishText>
       <PointerOffset>18720</PointerOffset>
       <JapaneseText>騎士見習いが修練用に使用する細身剣。
 威力は期待できない</JapaneseText>
-      <EnglishText>A slender sword used for training knight
+      <EnglishText>A narrow sword used for training knight
 apprentices. Not that powerful.</EnglishText>
       <Notes/>
       <Id>2917</Id>
@@ -5645,7 +5645,7 @@ apprentices. Not that powerful.</EnglishText>
     <Entry>
       <PointerOffset>18804</PointerOffset>
       <JapaneseText>鋭い突き攻撃を目的とした細身剣</JapaneseText>
-      <EnglishText>A slender sword designed for swift, thrusting attacks.</EnglishText>
+      <EnglishText>A narrow sword designed for swift, thrusting attacks.</EnglishText>
       <Notes/>
       <Id>2920</Id>
       <Status>Editing</Status>
@@ -5672,10 +5672,11 @@ Water Property</EnglishText>
       <PointerOffset>18888</PointerOffset>
       <JapaneseText>氷の封印の名を冠した細身剣。
 その昔、赤竜退治の切り札とされたもの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A narrow sword bearing the name of "Ice Seal". Long ago, it
+was considered the trump card in the battle against the Red Dragon.</EnglishText>
       <Notes/>
       <Id>2923</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18908</PointerOffset>
@@ -5696,10 +5697,10 @@ Water Property</EnglishText>
     <Entry>
       <PointerOffset>18972</PointerOffset>
       <JapaneseText>とても軽くバランスの取れた、扱いやすい細身剣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A light and well-balanced narrow sword that is easy to handle.</EnglishText>
       <Notes/>
       <Id>2926</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18992</PointerOffset>
@@ -5721,10 +5722,11 @@ Water Property</EnglishText>
       <PointerOffset>19056</PointerOffset>
       <JapaneseText>由緒ある細身剣。
 とある高名な貴族が所持していたという</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A historical narrow sword said to have once belonged
+to a certain renowned nobleman.</EnglishText>
       <Notes/>
       <Id>2929</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19076</PointerOffset>
@@ -5746,10 +5748,11 @@ Water Property</EnglishText>
       <PointerOffset>19140</PointerOffset>
       <JapaneseText>とある騎士団で使われていた細身剣。
 店売りの安物とは段違いの切れ味を誇る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A narrow sword said to have been used by a certain order.
+Its sharpness is far superior than any cheap, off-the-shelf swords.</EnglishText>
       <Notes/>
       <Id>2932</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19160</PointerOffset>
@@ -5772,10 +5775,10 @@ Light Property</EnglishText>
     <Entry>
       <PointerOffset>19224</PointerOffset>
       <JapaneseText>至高神の祝福を受けた光の聖剣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The holy sword of light, blessed by the God Most High.</EnglishText>
       <Notes/>
       <Id>2935</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19244</PointerOffset>
@@ -5796,10 +5799,11 @@ Light Property</EnglishText>
     <Entry>
       <PointerOffset>19308</PointerOffset>
       <JapaneseText>突くことに特化した、針のような刀身を持つ細身剣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A narrow sword with a needle-like blade designed
+specifically for thrusting.</EnglishText>
       <Notes/>
       <Id>2938</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19328</PointerOffset>
@@ -5823,10 +5827,11 @@ CAST + 10</EnglishText>
       <PointerOffset>19392</PointerOffset>
       <JapaneseText>純粋な力の結晶というべき風格ある剣。
 すべてに動じない精神力を与えてくれる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A sword of such stature it could be considered the embodiment of power.
+It bestows a fortitude that is unshaken by all.</EnglishText>
       <Notes/>
       <Id>2941</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19412</PointerOffset>
@@ -5849,10 +5854,11 @@ Light Property</EnglishText>
     <Entry>
       <PointerOffset>19476</PointerOffset>
       <JapaneseText>聖別された剣先が鮮やかに敵を貫く高貴な細身剣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An exalted, narrow sword whose consecrated blade
+will pierce through enemies with precision.</EnglishText>
       <Notes/>
       <Id>2944</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19496</PointerOffset>
@@ -5876,18 +5882,18 @@ Earth Property</EnglishText>
       <PointerOffset>19560</PointerOffset>
       <JapaneseText>大地を統べた龍の牙を穂先として使用した剣。
 その威力はまさに龍のひと噛み</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A sword whose blade was fashioned from the fang of a dragon that once ruled the Earth. Its power is as strong as a dragon's bite.</EnglishText>
       <Notes/>
       <Id>2947</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19580</PointerOffset>
       <JapaneseText>オリジナルブレード</JapaneseText>
-      <EnglishText>Original Blade</EnglishText>
-      <Notes/>
+      <EnglishText>Origin Blade</EnglishText>
+      <Notes>While literally Original Blade, I think Origin Blade fits better. Please confirm that this is related to Origin, the Spirit.</Notes>
       <Id>2948</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>19640</PointerOffset>
@@ -5903,10 +5909,11 @@ MATK + 80　MDEF + 3　CAST + 2　Earth Property</EnglishText>
       <PointerOffset>19644</PointerOffset>
       <JapaneseText>精霊王の力により生み出された精霊の剣。
 大地の力を宿し、敵に圧倒的な威圧感を与える</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A divine blade forged with the power of the King of Spirits. It harnesses
+the power of Earth and overwhelms its foes with dread.</EnglishText>
       <Notes/>
       <Id>2950</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19664</PointerOffset>
@@ -5928,10 +5935,11 @@ MATK + 80　MDEF + 3　CAST + 2　Earth Property</EnglishText>
       <PointerOffset>19728</PointerOffset>
       <JapaneseText>数々の伝説打法が生み出された
 万人に愛される木製武器</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A wooden weapon that has given rise to countless
+legendary techniques and is loved by all.</EnglishText>
       <Notes/>
       <Id>2953</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19748</PointerOffset>
@@ -6065,10 +6073,10 @@ Fire Property</EnglishText>
       <PointerOffset>20148</PointerOffset>
       <JapaneseText>炎の力を凝縮し、
 精霊の手によって生み出される貴重な武器</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A precious weapon forged by the hands of spirits which has condensed the power of fire.</EnglishText>
       <Notes/>
       <Id>2968</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20168</PointerOffset>
@@ -6115,10 +6123,10 @@ uncomfortable saddle.</EnglishText>
     <Entry>
       <PointerOffset>20316</PointerOffset>
       <JapaneseText>銀細工の施された綺麗なホウキ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A beautiful broom embellished with a silver inlay.</EnglishText>
       <Notes/>
       <Id>2974</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20336</PointerOffset>
@@ -6139,10 +6147,11 @@ uncomfortable saddle.</EnglishText>
     <Entry>
       <PointerOffset>20400</PointerOffset>
       <JapaneseText>別世界からやってきた魔女が乗っていたホウキ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A broom ridden by a witch who had come from
+another world.</EnglishText>
       <Notes/>
       <Id>2977</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20420</PointerOffset>
@@ -6166,10 +6175,11 @@ Wind Property</EnglishText>
       <PointerOffset>20484</PointerOffset>
       <JapaneseText>風の精霊の力が宿った素早く飛べるホウキ。
 スピードが命なあなたに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A broom imbued with the power of Sylph that lets one fly as
+swift as the wind. It for those whom speed is everything...</EnglishText>
       <Notes/>
       <Id>2980</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20504</PointerOffset>
@@ -6190,10 +6200,11 @@ Wind Property</EnglishText>
     <Entry>
       <PointerOffset>20568</PointerOffset>
       <JapaneseText>楽器のような飛行音がする不思議で楽しいホウキ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A mysterious yet delightful broom that makes sounds
+like a musical instrument.</EnglishText>
       <Notes/>
       <Id>2983</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20588</PointerOffset>
@@ -6214,10 +6225,10 @@ Wind Property</EnglishText>
     <Entry>
       <PointerOffset>20652</PointerOffset>
       <JapaneseText>流れ星のような軌跡を残す魔法のホウキ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A magic broom that leaves a trail like a shooting star.</EnglishText>
       <Notes/>
       <Id>2986</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20672</PointerOffset>
@@ -6239,10 +6250,11 @@ Wind Property</EnglishText>
       <PointerOffset>20736</PointerOffset>
       <JapaneseText>銀細工の施された綺麗なスプーン……
 飛んでみたらいいよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A beautiful spoon made of silver...
+Why not give it a try!</EnglishText>
       <Notes/>
       <Id>2989</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20756</PointerOffset>
@@ -6263,10 +6275,11 @@ Wind Property</EnglishText>
     <Entry>
       <PointerOffset>20820</PointerOffset>
       <JapaneseText>クマの手を模して作られた打撃戦用の篭手</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gauntlets designed to imitate a bear's claws for
+close combat.</EnglishText>
       <Notes/>
       <Id>2992</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20840</PointerOffset>
