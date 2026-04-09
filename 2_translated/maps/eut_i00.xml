@@ -116,22 +116,22 @@
       <PointerOffset>272692</PointerOffset>
       <JapaneseText>ちーす
 雑貨屋「ほっかむり」っす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey there, welcome to Bonnet.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272692</PointerOffset>
       <JapaneseText>何がいるっすか～？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whattcha need?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272696</PointerOffset>
@@ -145,101 +145,107 @@
     <Entry>
       <PointerOffset>272700</PointerOffset>
       <JapaneseText>あーっす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Got it.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272700</PointerOffset>
       <JapaneseText>あ、「ありがとうございます」
 ってことっす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I mean...thanks and come again.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272704</PointerOffset>
       <JapaneseText>この町はね、
 昔エライなんとかっていう
 学者さんがいたのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A long time ago a really, uh...important
+what's-their-name scholar visited this town.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272704</PointerOffset>
       <JapaneseText>で、なんとかって理論を
 提唱して、なんとかってのを
 なくしたとかって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They proposed some kind of amazing thing
+that was supposed to get rid of...something.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272708</PointerOffset>
       <JapaneseText>この町出身のなんとかって学者さんの
 エライ一言が世界を変えたの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In this very town, this what's-their-name scholar
+shared a profound message that fundementally
+changed the world as we know it.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272708</PointerOffset>
       <JapaneseText>スゴクない？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Pretty incredible, right?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272708</PointerOffset>
       <JapaneseText>そして、そんな
 スゴイこと覚えてないわたし、
 もっとすごくない？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And the fact that I cannot remember a single
+detail... doesn't that make this whole thing
+even more incredible!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272712</PointerOffset>
       <JapaneseText>いらっしゃい
 雑貨屋「ベイビー」だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome to the item shop Baby.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272712</PointerOffset>
       <JapaneseText>何買うね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whatcha buying?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272716</PointerOffset>
@@ -254,11 +260,11 @@
       <PointerOffset>272720</PointerOffset>
       <JapaneseText>へい、まいど。
 またおいで</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thanks. Please come again.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272724</PointerOffset>
@@ -403,23 +409,23 @@
       <PointerOffset>272748</PointerOffset>
       <JapaneseText>はいはい、
 雑貨屋「ほっかむり」よん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is the item store Bonnet.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272748</PointerOffset>
       <JapaneseText>なんかほしいもんあったら
 持ってって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grab anything that suits your fancy.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272752</PointerOffset>
@@ -434,11 +440,12 @@
       <PointerOffset>272756</PointerOffset>
       <JapaneseText>持ってってもいいけど
 お金は置いてってね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When I said grab anything, you do
+know you still have to pay, yeah?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>30</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272760</PointerOffset>
