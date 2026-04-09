@@ -1817,8 +1817,7 @@ the ancient spell, Meteor Storm.</EnglishText>
       <JapaneseText>魔術系メルの禁呪文
 「ビッグバン」の使い方が載っている本</JapaneseText>
       <EnglishText>A book that will teach Mel how to use the
-all-powerful spell, Big Bang.
-</EnglishText>
+all-powerful spell, Big Bang.</EnglishText>
       <Notes/>
       <Id>2490</Id>
       <Status>Editing</Status>
@@ -2238,10 +2237,11 @@ Carry it with care, because it can crack easily.</EnglishText>
       <PointerOffset>6708,7128,9312,7968,8640,7632</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ３％回復</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Additional food effect:
+Recovers 3% HP</EnglishText>
       <Notes/>
       <Id>2536</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7652</PointerOffset>
@@ -2321,10 +2321,11 @@ Always on demons' favorite dishes.</EnglishText>
       <PointerOffset>9144,9396,7884</PointerOffset>
       <JapaneseText>料理の追加効果
 ＥＢＧ３％回復</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Additional food effect:
+Recovers 3% EBG</EnglishText>
       <Notes/>
       <Id>2545</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7904</PointerOffset>
@@ -2402,10 +2403,11 @@ When a black speck surfaces on its tip, it is sign of its maturity.</EnglishText
       <PointerOffset>9564,8220</PointerOffset>
       <JapaneseText>料理の追加効果
 ＥＢＧ８％回復</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Additional food effect:
+Recovers 8% EBG</EnglishText>
       <Notes/>
       <Id>2554</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8240</PointerOffset>
@@ -2457,10 +2459,11 @@ Commonly eaten with additional sauces.</EnglishText>
       <PointerOffset>8472,8808,8388</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ５％回復</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Additional food effect:
+Recovers 5% HP</EnglishText>
       <Notes/>
       <Id>2560</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8408</PointerOffset>
@@ -2813,10 +2816,10 @@ Recovers 5% EBG</EnglishText>
     <Entry>
       <PointerOffset>14264,9728</PointerOffset>
       <JapaneseText>物攻＋３７</JapaneseText>
-      <EnglishText/>
+      <EnglishText>P.ATK +37</EnglishText>
       <Notes/>
       <Id>2599</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9732</PointerOffset>
@@ -2839,10 +2842,10 @@ Single edged Sword that can bend backwards.</EnglishText>
     <Entry>
       <PointerOffset>12500,9812</PointerOffset>
       <JapaneseText>物攻＋５４</JapaneseText>
-      <EnglishText/>
+      <EnglishText>P.ATK +54</EnglishText>
       <Notes/>
       <Id>2602</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9816</PointerOffset>
@@ -2866,7 +2869,7 @@ bears the name of an eastern country.</EnglishText>
       <PointerOffset>9896</PointerOffset>
       <JapaneseText>物攻＋７８　敏捷＋５
 水属性武器</JapaneseText>
-      <EnglishText>ATK + 78　AGI + 5
+      <EnglishText>P.ATK + 78　AGI + 5
 Water Property</EnglishText>
       <Notes/>
       <Id>2605</Id>
@@ -6539,7 +6542,8 @@ Fire Property</EnglishText>
     <Entry>
       <PointerOffset>21660</PointerOffset>
       <JapaneseText>火の精霊の力を宿した、熱き魂の脚甲</JapaneseText>
-      <EnglishText>Fiery leg guards imbued with the power of a fire spirit</EnglishText>
+      <EnglishText>Leg guards that embody a passionate soul.
+It is imbued with the power of a fire spirit.</EnglishText>
       <Notes/>
       <Id>3022</Id>
       <Status>Editing</Status>
@@ -6590,10 +6594,11 @@ Water Property</EnglishText>
     <Entry>
       <PointerOffset>21828</PointerOffset>
       <JapaneseText>水の精霊の力を宿した、冷徹な意思を体現する脚甲</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Leg guards that embody an undying will.
+It is imbued with the power of a water spirit.</EnglishText>
       <Notes/>
       <Id>3028</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21848</PointerOffset>
@@ -6614,10 +6619,11 @@ Water Property</EnglishText>
     <Entry>
       <PointerOffset>21912</PointerOffset>
       <JapaneseText>打撃力を強化して、性能を向上させた革の脚甲</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Leg guards that enhance strength and improve
+combat performance.</EnglishText>
       <Notes/>
       <Id>3031</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21932</PointerOffset>
@@ -14140,7 +14146,7 @@ Dio. You can return to your own time.</EnglishText>
     <Entry>
       <PointerOffset>47132</PointerOffset>
       <JapaneseText>火の精霊晶核</JapaneseText>
-      <EnglishText>Spirit Crystal Fire</EnglishText>
+      <EnglishText>Fire Atomism Core</EnglishText>
       <Notes/>
       <Id>3909</Id>
       <Status>Editing</Status>
@@ -14158,7 +14164,7 @@ Efreet. It feels warm to the touch.</EnglishText>
     <Entry>
       <PointerOffset>47216</PointerOffset>
       <JapaneseText>水の精霊晶核</JapaneseText>
-      <EnglishText>Spirit Crystal Water</EnglishText>
+      <EnglishText>Water Atomism Core</EnglishText>
       <Notes/>
       <Id>3911</Id>
       <Status>Editing</Status>
@@ -14176,7 +14182,7 @@ spirit, Undine. It's chilly to the touch.</EnglishText>
     <Entry>
       <PointerOffset>47300</PointerOffset>
       <JapaneseText>地の精霊晶核</JapaneseText>
-      <EnglishText>Spirit Crystal Earth</EnglishText>
+      <EnglishText>Earth Atomism Core</EnglishText>
       <Notes/>
       <Id>3913</Id>
       <Status>Editing</Status>
@@ -14194,7 +14200,7 @@ spirit, Gnome. Contains the blessing of the earth.</EnglishText>
     <Entry>
       <PointerOffset>47384</PointerOffset>
       <JapaneseText>風の精霊晶核</JapaneseText>
-      <EnglishText>Spirit Crystal Wind</EnglishText>
+      <EnglishText>Wind Atomism Core</EnglishText>
       <Notes/>
       <Id>3915</Id>
       <Status>Editing</Status>
@@ -14229,7 +14235,7 @@ spirit, Sylph. It gives off a complex sound.</EnglishText>
     <Entry>
       <PointerOffset>47552</PointerOffset>
       <JapaneseText>雷の精霊晶核</JapaneseText>
-      <EnglishText>Spirit Crystal Lightning</EnglishText>
+      <EnglishText>Lightning Atomism Core</EnglishText>
       <Notes/>
       <Id>3919</Id>
       <Status>Editing</Status>
@@ -14283,7 +14289,7 @@ the ultra-tall ancient city of Thor.</EnglishText>
     <Entry>
       <PointerOffset>47804</PointerOffset>
       <JapaneseText>オリジンの精霊晶核</JapaneseText>
-      <EnglishText>Spirit Crystal Origin</EnglishText>
+      <EnglishText>Origin Atomism Core</EnglishText>
       <Notes/>
       <Id>3925</Id>
       <Status>Editing</Status>
