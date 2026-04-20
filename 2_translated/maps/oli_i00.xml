@@ -124,41 +124,44 @@
       <PointerOffset>277000</PointerOffset>
       <JapaneseText>いらっしゃいませ、
 道具屋「スパイシー」へようこそ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come on in!
+Welcome to my "Spicy" Item Shop!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277004</PointerOffset>
       <JapaneseText>_shop_</JapaneseText>
-      <EnglishText/>
+      <EnglishText>_shop_</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277008</PointerOffset>
       <JapaneseText>ありがとうございました。
 またのご来店、お待ちしております</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you very much!
+I'll be waiting for you to come again!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277012</PointerOffset>
       <JapaneseText>外は暑いけど
 屋内は涼しいの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's a scorcher out there!
+Come on in and stay cool!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277012</PointerOffset>
