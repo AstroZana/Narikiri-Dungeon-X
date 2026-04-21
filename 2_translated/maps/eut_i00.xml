@@ -140,7 +140,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>272700</PointerOffset>
@@ -254,7 +254,7 @@ even more incredible!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>272720</PointerOffset>
@@ -450,7 +450,7 @@ None whatsoever!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>29</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>272756</PointerOffset>
